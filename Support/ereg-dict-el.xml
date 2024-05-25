@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subs-interface-reply SYSTEM "http://account.ea.com/subsxml/subs-interface.dtd">
+<subs-interface-reply version="2.0">
+   <status>0</status>
+   <message>Success</message>
+   <get-registration-dictionary-reply>
+      <message-dictionary>
+         <message id="00GAMENAME-1"><![CDATA[Need for Speed™ Most Wanted]]></message>
+         <message id="BUTTONSANDLABELS-1"><![CDATA[ΕΓΓΡΑΦΗ]]></message>
+         <message id="BUTTONSANDLABELS-10"><![CDATA[ΟΚ]]></message>
+         <message id="BUTTONSANDLABELS-11"><![CDATA[ΑΚΥΡΩΣΗ]]></message>
+         <message id="BUTTONSANDLABELS-12"><![CDATA[ΔΟΚΙΜΑΣΤΕ ΠΑΛΙ]]></message>
+         <message id="BUTTONSANDLABELS-13"><![CDATA[ΚΛΕΙΣΙΜΟ]]></message>
+         <message id="BUTTONSANDLABELS-14"><![CDATA[ΕΞΟΔΟΣ]]></message>
+         <message id="BUTTONSANDLABELS-15"><![CDATA[ΤΕΛΕΙΩΣΤΕ ΑΡΓΟΤΕΡΑ]]></message>
+         <message id="BUTTONSANDLABELS-2"><![CDATA[ΕΓΓΡΑΦΗ ΑΡΓΟΤΕΡΑ]]></message>
+         <message id="BUTTONSANDLABELS-3"><![CDATA[ΕΓΓΡΑΦΗ ΤΩΡΑ]]></message>
+         <message id="BUTTONSANDLABELS-4"><![CDATA[ΝΑΙ]]></message>
+         <message id="BUTTONSANDLABELS-5"><![CDATA[ΟΧΙ]]></message>
+         <message id="BUTTONSANDLABELS-6"><![CDATA[ΕΠΙΣΤΡΟΦΗ]]></message>
+         <message id="BUTTONSANDLABELS-7"><![CDATA[ΕΠΟΜΕΝΟ]]></message>
+         <message id="BUTTONSANDLABELS-8"><![CDATA[ΠΙΣΩ]]></message>
+         <message id="BUTTONSANDLABELS-9"><![CDATA[ΤΕΛΟΣ]]></message>
+         <message id="CONNECT1A-1"><![CDATA[<B>Για να κατοχυρώσετε το παιχνίδι πρέπει να είστε συνδεδεμένοι με το Internet.</b>]]></message>
+         <message id="CONNECT1A-2"><![CDATA[Εάν είστε συνδεδεμένοι με το Internet, μπορείτε να το κάνετε τώρα. Αφού συνδεθείτε κάντε κλικ στο  πλήκτρο <b>Επόμενο</b> για να συνεχίσετε.<BR><BR>]]></message>
+         <message id="CONNECT1A-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Τι πρέπει να κάνω εάν δεν έχω σύνδεση με το Internet;</u></a></font>]]></message>
+         <message id="CONNECT1B-1"><![CDATA[<b>Για να επιβεβαιώσετε τη κατοχύρωση ή για να μάθετε για νέες προσφορές, πρέπει να είστε συνδεδεμένοι με το Internet.</b>]]></message>
+         <message id="CONNECT1B-2"><![CDATA[Εάν δεν είστε συνδεδεμένοι με το Internet, κάντε το τώρα. Αφού συνδεθείτε κάντε κλικ στο πλήκτρο <b>Επόμενο</b> για να συνεχίσετε.]]></message>
+         <message id="CONNECT1B-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Τι πρέπει να κάνω εάν δεν έχω σύνδεση με το Internet;</u></a></font>]]></message>
+         <message id="CONNECT1C-1"><![CDATA[<b>Σύνδεση με την EA... </b>]]></message>
+         <message id="CONNECT1C-2"><![CDATA[<b>Παρακαλούμε περιμένετε - Αυτό μπορεί να διαρκέσει μερικά λεπτά.</b>]]></message>
+         <message id="CONNECTED1A-1"><![CDATA[<b>Η επικοινωνία ολοκληρώθηκε.</b>]]></message>
+         <message id="CONNECTED1A-2"><![CDATA[<b>Έναρξη κατοχύρωσης…</b>]]></message>
+         <message id="CONNECTED1B-1"><![CDATA[<b>Η επικοινωνία με την EA δεν ήταν δυνατή</b>]]></message>
+         <message id="CONNECTED1B-2"><![CDATA[Δεν μπορούμε να επικοινωνήσουμε με το σύστημα κατοχύρωσης προϊόντων της ΕΑ. Για να κατοχυρώσετε το προϊόν σας, πρέπει να είστε συνδεδεμένοι με το Internet. Εάν δεν είστε ήδη συνδεδεμένοι με το Internet, παρακαλούμε συνδεθείτε τώρα.]]></message>
+         <message id="CONNECTED1B-3"><![CDATA[Μόλις συνδεθείτε κάντε κλικ στο πλήκτρο <b>Δοκιμάστε Πάλι</B> .]]></message>
+         <message id="CONNECTED1B-4"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Τι πρέπει να κάνω εάν δεν μπορώ να συνδεθώ μετά από αρκετές προσπάθειες;</u></a></font>]]></message>
+         <message id="CONNECTHOWTO-1"><![CDATA[<b>Για να κατοχυρώσετε το προϊόν σας, πρέπει να είστε συνδεδεμένοι με το Internet.</b>Δεν χρειάζεται να κατοχυρώσετε το προϊόν σας για να παίξετε. Όμως, εάν θέλετε να κατοχυρώσετε το προϊόν σας, και δεν μπορείτε να συνδεθείτε με το σύστημα κατοχύρωσης προϊόντων της EA, μετά από αρκετές προσπάθειες, προτείνουμε τα ακόλουθα:]]></message>
+         <message id="CONNECTHOWTO-2"><![CDATA[Βεβαιωθείτε ότι η σύνδεση με το Internet λειτουργεί.]]></message>
+         <message id="CONNECTHOWTO-3"><![CDATA[Επικοινωνήστε με την Τεχνική Υποστήριξη. Παρακαλούμε διαβάστε προσεκτικά το εγχειρίδιο του παιχνιδιού για πληροφορίες σχετικά με τη Τεχνική Υποστηρίξη.]]></message>
+         <message id="CONNECTHOWTO-4"><![CDATA[Επισκευθύτε τη διεύθυνση <font color="#333399"><a href="http://www.eagamereg.com"><u>www.eagamereg.com</u></a> και συμπληρώστε την ηλεκτρονική φόρμα κατοχύρωσης.</font>]]></message>
+         <message id="CONNECTING-1"><![CDATA[<b>Εποικοινωνία με την EA</b>]]></message>
+         <message id="CONNECTING-2"><![CDATA[Προσπαθούμε να επικοινωνήσουμε με το σύστημα κατοχύρωσης προϊόντων της EA. Παρακαλούμε περιμένετε, αυτό μπορεί να διαρκέσει μερικά λεπτά.]]></message>
+         <message id="NOINTERNET-1"><![CDATA[<B>Δεν έχετε σύνδεση με το Internet; Δεν υπάρχει πρόβλημα!</B>]]></message>
+         <message id="NOINTERNET-2"><![CDATA[Μπορείτε να παίξετε με το {client:game-name} χωρίς να το κατοχυρώσετε. Εάν χρειαστείτε ποτέ τεχνική υποστήριξη, θα σας ζητηθεί να κατοχυρώσετε το παιχνίδι σας από το τηλέφωνο. Παρακαλούμε δείτε το εγχειρίδιο του παιχνιδιού για τον αριθμό Τεχνικής Υποστήριξης.<BR>]]></message>
+         <message id="NOINTERNET-3"><![CDATA[Καλή διασκέδαση!]]></message>
+         <message id="NOINTERNET-4"><![CDATA[Electronic Arts]]></message>
+         <message id="OFFLINEEXITCONFIRM-1"><![CDATA[<b>Είστε σίγουρος ότι θέλετε να βγείτε από την εφαρμογή;</b>]]></message>
+         <message id="REGISTERLATER-1"><![CDATA[<b>Εάν δεν κατοχυρώσετε το προϊόν θα χάσετε μερικά καταπληκτικά προνόμοια, όπως:</b><BR>]]></message>
+         <message id="REGISTERLATER-2"><![CDATA[<li>Ειδικές προσφορές σε παιχνίδια της EA</li>]]></message>
+         <message id="REGISTERLATER-3"><![CDATA[<li>Πλήρης τεχνική υποστήριξη</li>]]></message>
+         <message id="REGISTERLATER-4"><![CDATA[<li>>Πληροφορίες από τους κατασκευαστές για τα αγαπημένα σας παιχνίδια της EA</li>]]></message>
+         <message id="REGISTERLATER-5"><![CDATA[<li>Δωρεάν cheat code ή game hint για το παιχνίδι!</li>]]></message>
+         <message id="REGISTERLATER-6"><![CDATA[<BR><b>Κατοχυρώστε το σύντομα και καλή διασκέδαση.</b>]]></message>
+         <message id="SIGNIN1B-1"><![CDATA[<b>Η έκδοση αυτή του {client:game-name} δεν μπορεί να κατοχυρωθεί.</b> Δεν χρειάζετε να κατοχυρώσετε αυτό το προϊόν για να παίξετε. Μπορείτε να επισκευθείτε τη διεύθυνση <font color="#333399"><a href="http://www.ea.com"><u>www.ea.com</u></a></font> για τις τελευταίες πληροφορίες για τα προϊόντα της EA και για να εγγραφείτε για το newsletter της EA.<BR>]]></message>
+         <message id="START1A-1"><![CDATA[<b>Κερδίστε ένα cheat code ή game hint για το παιχνίδι σας και ακόμα περισσότερα!</b> <BR><BR>]]></message>
+         <message id="START1A-2"><![CDATA[<b>>Καταχωρήστε το {client:game-name} τώρα και κερδίστε αυτά τα καταπληκτικά προνόμοια!</b><BR>]]></message>
+         <message id="START1A-3"><![CDATA[<li>Δωρεάν cheat code ή game hint για το παιχνίδι!</li>]]></message>
+         <message id="START1A-4"><![CDATA[<li>Πληροφορίες από τους κατασκευαστές για τα αγαπημένα σας παιχνίδια της EA</li>]]></message>
+         <message id="START1A-5"><![CDATA[<li>Πλήρης τεχνική υποστήριξη</li>]]></message>
+         <message id="START1A-6"><![CDATA[<li>Ειδικές προσφορές σε παιχνίδια της EA</li>]]></message>
+         <message id="START1B-1"><![CDATA[<b>Έχετε ήδη κατοχειρώσει το {client:game-name}.</b>]]></message>
+         <message id="START1B-2"><![CDATA[Θέλετε να δείτε και πάλι τις πληροφορίες εγγραφής σας ή να απαντήσετε μερικές επιπλέον ερωτήσεις για ειδικές προσφορές της EA;]]></message>
+         <message id="TITLE-PREFIX"><![CDATA[default]]></message>
+         <message id="TITLE-SUFFIX"><![CDATA[default]]></message>
+      </message-dictionary>
+   </get-registration-dictionary-reply>
+</subs-interface-reply>

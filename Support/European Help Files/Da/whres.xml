@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<resource>
+<item name="Prev" value="&lt;&lt;" />
+<item name="Hide" value="Skjul" />
+<item name="SyncTocTooltip" value="Synkronisér indholdsfortegnelse" />
+<item name="InTopicSearchBtnText" value="Start" />
+<item name="FtsInputPrompt" value="Indtast ordet eller ordene for at søge efter:" />
+<item name="Done" value="Færdig" />
+<item name="Logo/Author" value="Udviklet af" />
+<item name="MergeError1" value="Det flettede hjælpesystem" />
+<item name="JS_alert_cantLoadProject" value="Kan ikke indlæse projekt:" />
+<item name="Next" value="&gt;&gt;" />
+<item name="SyncToc" value="SyncToc" />
+<item name="MergeError2" value="anvender et andet sprog end hovedhjælpesystemet, hvilket medfører, at indekset og fuldtekst-søgefunktionaliteten deaktiveres i det flettede hjælpesystem." />
+<item name="nls_body_instruction" value="Indtast spørgsmålet i tekstruden herover, og klik så på GO" />
+<item name="ToolBarSearchBtnText" value="Start" />
+<item name="SuggestViewNoFrameMessage" value="Man kan vise Hjælp uden billeder ved at klikke på denne" />
+<item name="Hide_Navigation_Component" value="Skjul navigationskomponent" />
+<item name="FtsBtnText" value="Start" />
+<item name="TopicsFound" value="Emner er fundet" />
+<item name="LoadingContentsData" value="Indlæser data, klik her til at afbryde..." />
+<item name="Definition" value="Definition:" />
+<item name="CompletingContents" value="Fuldfører indhold..." />
+<item name="Seperate" value="|" />
+<item name="GeneratedBy" value="Genereret af" />
+<item name="PoweredBy" value="Udviklet af" />
+<item name="IndexAlphabetBookmarks" value="ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ" />
+<item name="Contents" value="Indhold" />
+<item name="IndexSelectTopicLabel" value="Vælg et emne og klik så på display" />
+<item name="Disabled Prev" value="&lt;&lt;" />
+<item name="Glossary" value="Ordliste" />
+<item name="Search" value="Søgning" />
+<item name="CantSearch" value="Kan ikke søge efter det udtryk." />
+<item name="LoadingIndex" value="Indlæser indeks..." />
+<item name="LoadingData" value="Indlæser data, vent..." />
+<item name="Show_Navigation_Component" value="Vis navigationskomponent" />
+<item name="Book" value="Bog" />
+<item name="Disabled Next" value="&gt;&gt;" />
+<item name="nls_body_empty" value="Beklager, vi kan ikke finde et passende svar på det spørgsmål." />
+<item name="nls_button_go_hint" value="Søgning" />
+<item name="Find" value="Find" />
+<item name="CantOpenURLorFile" value="Kan ikke åbne URL eller fil" />
+<item name="Print" value="Udskriv" />
+<item name="About" value="Om" />
+<item name="Author" value="Forfatter" />
+<item name="IndexSelectTopicTitle" value="Vælg et emne" />
+<item name="Blank_topic_text" value="Dette emne er oprettet med guiden WinHelp projektkonvertering og er destinationen for et manglende emne eller en afbrudt hyperlink." />
+<item name="BrowserLimitedMessage" value="Din browser understøtter ikke billeder. Vi anbefaler at du opdaterer browseren til en version der understøtter billeder." />
+<item name="LoadingTOCItem" value="Indlæser indholdsfortegnelse:" />
+<item name="Display" value="Display" />
+<item name="Cancel" value="Annuller" />
+<item name="IndexSelectTopicError" value="Værsgo, vælg et emne." />
+<item name="nls_edit_label" value="Indtast spørgsmålet:" />
+<item name="SearchLabel" value="Søg" />
+<item name="RelateTopicListPrompt" value="Klik på et emne, og klik dernæst på display." />
+<item name="NextTooltip" value="Næste emne" />
+<item name="JS_alert_colorlimitation" value="WebHelp har registreret at skærmen er stillet til 16 farver. For at få komplet WebHelp-støtte skal skærmen stilles til mindst 256 farver." />
+<item name="TopicsNotFound" value="Ingen emner er fundet." />
+<item name="Show" value="Vis" />
+<item name="PreTooltip" value="Forrige emne" />
+<item name="SearchPrompt" value="- Søg -" />
+<item name="IndexBtnText" value="Start" />
+<item name="JS_alert_ProjectLoadingFail" value="Kunne ikke indlæse korrekt, klik på Genopfrisk." />
+<item name="LoadingContents" value="Indlæser indhold, vent..." />
+<item name="Term" value="Udtryk:" />
+<item name="WebSearchButton" value="WebSearch" />
+<item name="Remote_Page" value="Fjernside" />
+<item name="WebSearch" value="WebSearch" />
+<item name="LoadingFTS" value="Læser søgedata..." />
+<item name="Index" value="Indeks" />
+<item name="JS_alert_ErrorInLoading" value="Fejl ved indlæsning af navigationskomponent. Regenerér WebHelp." />
+<item name="JS_alert_appletNotLoad" value="Kan ikke indlæse applet. Hvis der bruges en gammel version af Netscape, skal prefs.js-filen redigeres." />
+<item name="IndexInputPrompt" value="Indtast nøgleordet for at finde:" />
+<item name="Page" value="Side" />
+<item name="SuggestViewNoFrameMsg2" value="link." />
+<item name="nls_button_go_text" value="Start" />
+<item name="Searching" value="Søger..." />
+
+  <item name="English"   value="" />
+  <item name="langorder" value="0,1,2,3,4,5,6,7,8,40,41,42,43,44,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,38,45,46,47,48,49,50,33,51,52,53,88,54,34,55,56,115,119,121,123,125,126,127,128,129,130,57,58,89,90,91,59,60,131,142,144,148,152,162,165,167,169,179,181,183,185,187,191,204,206,208,210,215,220,228,230,232,234,242,61,62,63,64,66,67,131,142,144,148,152,162,165,167,169,179,181,183,185,187,191,204,206,208,210,215,220,228,230,232,234,242,68,69,70,71,27,114,28,82,164,85,112,109,110,65,113,213,86,203,29,245,30,31,80,81,83,84,111,36,37,79,219,212,87,202,32,244,239,39,72,97,98,99,100,73,101,74,102,133,93,103,35,104,75,105,92,122,124,76,106,107,108,77,120,193,94,116,117,118,78,131,131,131,131,131,254,246,144,152,152,152,152,169,169,169,169,148,187,191,191,191,191,191,95,250,220,220,220,220,234,217,214,131,131,131,131,131,254,246,144,152,152,152,152,169,169,169,169,148,187,191,191,191,191,191,96,250,220,220,220,220,234,217,238," />
+
+  <panes show="0">
+    <toc />
+    <index />
+    <fts />
+  </panes>
+
+  <stopwords>
+    <word name="0" />
+    <word name="1" />
+    <word name="2" />
+    <word name="3" />
+    <word name="4" />
+    <word name="5" />
+    <word name="6" />
+    <word name="7" />
+    <word name="8" />
+    <word name="9" />
+    <word name="af" />
+    <word name="alle" />
+    <word name="allerede" />
+    <word name="anden" />
+    <word name="andet" />
+    <word name="behov" />
+    <word name="behøve" />
+    <word name="behøveenhver" />
+    <word name="blandt" />
+    <word name="brug" />
+    <word name="bruge" />
+    <word name="brugt" />
+    <word name="de" />
+    <word name="dem" />
+    <word name="den" />
+    <word name="denne" />
+    <word name="der" />
+    <word name="deres" />
+    <word name="dernæst" />
+    <word name="det" />
+    <word name="dette" />
+    <word name="din" />
+    <word name="dine" />
+    <word name="disse" />
+    <word name="dit" />
+    <word name="dog" />
+    <word name="du" />
+    <word name="efter" />
+    <word name="eller" />
+    <word name="en" />
+    <word name="end" />
+    <word name="endnu" />
+    <word name="enhver" />
+    <word name="enten" />
+    <word name="er" />
+    <word name="et" />
+    <word name="for" />
+    <word name="fordi" />
+    <word name="fra" />
+    <word name="færdig" />
+    <word name="få" />
+    <word name="gjort" />
+    <word name="gør" />
+    <word name="gøre" />
+    <word name="har" />
+    <word name="her" />
+    <word name="hvad" />
+    <word name="hver" />
+    <word name="hvilken" />
+    <word name="hvis" />
+    <word name="hvor" />
+    <word name="hvordan" />
+    <word name="hvornår" />
+    <word name="ikke" />
+    <word name="ind" />
+    <word name="ingen" />
+    <word name="intet" />
+    <word name="jeg" />
+    <word name="kan" />
+    <word name="langs" />
+    <word name="ligesom" />
+    <word name="man" />
+    <word name="med" />
+    <word name="mellem" />
+    <word name="men" />
+    <word name="mere" />
+    <word name="må" />
+    <word name="måde" />
+    <word name="måske" />
+    <word name="nogle" />
+    <word name="når" />
+    <word name="og" />
+    <word name="også" />
+    <word name="ok" />
+    <word name="okay" />
+    <word name="på" />
+    <word name="re" />
+    <word name="samme" />
+    <word name="se" />
+    <word name="snarere" />
+    <word name="som" />
+    <word name="så" />
+    <word name="sådan" />
+    <word name="tage" />
+    <word name="til" />
+    <word name="uden" />
+    <word name="var" />
+    <word name="ved" />
+    <word name="vej" />
+    <word name="vi" />
+    <word name="vil" />
+    <word name="være" />
+    <word name="været" />
+    <word name="ønske" />
+  </stopwords>
+
+
+	<paneskin>
+		<background color="#367fcb" img="" />
+		<font name="Tahoma" size="8pt" color="#ffffff" style="Normal" weight="Normal" decoration="none" />
+		<toc>
+			<background color="#ffffff" img="" />
+			<icons>
+				<book open="bookopen.gif" close="book_closed.gif" />
+				<item  local="page.gif" remote="urls.gif" />
+				<newbook open="" close="" />
+				<newitem  local="" remote="" />
+			</icons>
+			<fonts>
+				<normal name="Tahoma" size="8pt" color="#000000" style="Normal" weight="Normal" decoration="none" />
+				<hover name="Tahoma" size="8pt" color="#000080" style="Normal" weight="Normal" decoration="underline" />
+			</fonts>
+			<activebackgroundcolor attr="#beddfc" />
+			<margin attr="" />
+			<indent attr="" />
+		</toc>
+		<index>
+			<form>
+				<fonts>
+					<title name="Tahoma" size="8pt" color="#ffffff" style="Normal" weight="Normal" decoration="none" />
+				</fonts>
+				<button normal="" hover="" />
+				<editwith value="20" />
+			</form>
+			<background color="#ffffff" img="" />
+			<fonts>
+				<normal name="Tahoma" size="8pt" color="#000000" style="Normal" weight="Normal" decoration="none" />
+				<hover name="Tahoma" size="8pt" color="#000080" style="Normal" weight="Normal" decoration="underline" />
+				<empty name="" size="8pt" color="" style="" weight="" decoration="" />
+			</fonts>
+			<activebackgroundcolor attr="#beddfc" />
+			<margin attr="" />
+			<indent attr="" />
+		</index>
+		<fts>
+			<form>
+				<fonts>
+					<title name="Tahoma" size="8pt" color="#ffffff" style="Normal" weight="Normal" decoration="none" />
+				</fonts>
+				<button normal="" hover="" />
+				<editwith value="20" />
+			</form>
+			<background color="#ffffff" img="" />
+			<fonts>
+				<normal name="Tahoma" size="8pt" color="#000000" style="Normal" weight="Normal" decoration="none" />
+				<hover name="Tahoma" size="8pt" color="#000080" style="Normal" weight="Normal" decoration="underline" />
+				<error name="Tahoma" size="8pt" color="#000000" style="Normal" weight="Normal" decoration="none" />
+			</fonts>
+			<activebackgroundcolor attr="#beddfc" />
+			<margin attr="" />
+			<indent attr="" />
+		</fts>
+		<glossary>
+			<background color="#ffffff" img="" />
+			<fonts>
+				<normal name="Tahoma" size="8pt" color="#000000" style="Normal" weight="Normal" decoration="none" />
+				<hover name="Tahoma" size="8pt" color="#000080" style="Normal" weight="Normal" decoration="underline" />
+			</fonts>
+			<activebackgroundcolor attr="#beddfc" />
+			<margin attr="" />
+			<indent attr="" />
+		</glossary>
+	</paneskin>
+</resource>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Velkommen" url="welcome.htm" />
+<book name="Sådan Installeres Spillet" url="Installing_the_game.htm" >
+  <item name="CD beslægtet problematik" url="cd_dvd_issues.htm" />
+  <item name="Data krak beslægtet problematik" url="crashes.htm" />
+</book>
+<book name="Sådan Startes Spillet" url="starting_the_game.htm" >
+  <item name="Mit spil starter ikke når jeg klikker på ”spil”" url="my_game_fails_to_start.htm" />
+  <item name="CD beslægtet problematik" url="cd_dvd_issues2.htm" />
+  <item name="Autorun" url="autorun.htm" />
+  <item name="Data krak beslægtet problematik" url="crash_issues2.htm" />
+  <item name="Fejlmeddelelse" url="error_message.htm" />
+</book>
+<book name="Problemer Under Spillet" url="gameplay_issues.htm" >
+  <item name="Blå Skærm" url="blue_screen_.htm" />
+  <item name="Data krak beslægtet problematik" url="crash_issues3.htm" />
+  <item name="Grafikfejl" url="Graphic_corruption.htm" />
+</book>
+<book name="Trin til fejlfinding" >
+  <item name="Sådan lukkes baggrundsapplikationer" url="Ending_background_tasks.htm" />
+  <item name="Sådan opdateres din skærmkortdriver" url="Updating_your_video_driver.htm" />
+  <item name="Sådan opdateres din lydkortdriver" url="Updating_your_sound_driver.htm" />
+  <item name="Lydkort" url="Sound_card.htm" />
+  <item name="Monitor" url="Monitor.htm" />
+  <item name="Harddiskplads" url="Hard_Drive_space.htm" />
+  <item name="Sådan undersøges skærmindstillingerne" url="display_settings.htm" />
+  <item name="Sådan startes installationen manuelt" url="Starting_the_installation_manually.htm" />
+  <item name="Skærmkort" url="Video_Card.htm" />
+  <item name="Mindstekrav  " url="Minimum_requirements.htm" />
+  <item name="DirectX" url="directx.htm" />
+  <item name="CD/DVD fejlfinding" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Sådan startes spillet manuelt " url="Manually_starting_the_game.htm" />
+  <item name="Sådan renses en CD/DVD" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Sådan fjernes midlertidige filer" url="Emptying_Temporary_Files.htm" />
+</book>
+<item name="Garanti" url="Warranty.htm" />
+<remoteitem name="Support" url="http://www.ea.dk" target="_blank" />
+
+</tocdata>

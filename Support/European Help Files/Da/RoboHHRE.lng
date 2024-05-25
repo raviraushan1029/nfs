@@ -1,0 +1,102 @@
+[GlossaryTab]
+TabCaption=&Ordliste
+TermCaption=&Udtryk
+DefinitionCaption=&Definition af:
+
+[BrowseSequence]
+PreCaption=Forrige
+PreTooltip=Forrige emne
+NextCaption=Næste
+NextTooltip=Næste emne
+BlockTooltip=Vælg søgesekvenser
+
+[Common]
+Contents=Indhold
+Index=Indeks
+Search=Søgning
+Glossary=Ordliste
+Logo/Author=Udviklet af
+Show=Vis
+Hide=Skjul
+SyncToc=SyncToc
+Prev=<<
+Next=>>
+Disabled Prev=<<
+Disabled Next=>>
+Seperate = |
+
+[WebHelp]
+Cancel=Annuller
+CantOpenURLorFile=Kan ikke åbne URL eller fil
+CompletingContents=Fuldfører indhold...
+Display=Display
+Term=Udtryk:
+Definition=Definition:
+Done=Færdig
+Find=Find
+IndexInputPrompt=Indtast nøgleordet for at finde:
+RelateTopicListPrompt=Klik på et emne, og klik dernæst på display.
+LoadingData=Indlæser data, vent...
+LoadingContents=Indlæser indhold, vent...
+LoadingContentsData=Indlæser data, klik her til at afbryde...
+LoadingFTS=Læser søgedata...
+LoadingIndex=Indlæser indeks...
+LoadingTOCItem=Indlæser indholdsfortegnelse:
+Searching=Søger...
+FtsInputPrompt=Indtast ordet eller ordene for at søge efter:
+TopicsFound=Emner er fundet
+BrowserLimitedMessage=Din browser understøtter ikke billeder. Vi anbefaler at du opdaterer browseren til en version der understøtter billeder.
+SuggestViewNoFrameMessage=Man kan vise Hjælp uden billeder ved at klikke på denne
+SuggestViewNoFrameMsg2=link.
+TopicsNotFound=Ingen emner er fundet.
+CantSearch=Kan ikke søge efter det udtryk.
+JS_alert_appletNotLoad = Kan ikke indlæse applet. Hvis der bruges en gammel version af Netscape, skal prefs.js-filen redigeres.
+JS_alert_colorlimitation=WebHelp har registreret at skærmen er stillet til 16 farver. For at få komplet WebHelp-støtte skal skærmen stilles til mindst 256 farver.
+Blank_topic_text=Dette emne er oprettet med guiden WinHelp projektkonvertering og er destinationen for et manglende emne eller en afbrudt hyperlink.
+JS_alert_ProjectLoadingFail=Kunne ikke indlæse korrekt, klik på Genopfrisk.
+JS_alert_cantLoadProject=Kan ikke indlæse projekt:
+JS_alert_ErrorInLoading=Fejl ved indlæsning af navigationskomponent. Regenerér WebHelp.
+IndexBtnText=Start
+FtsBtnText=Start
+ToolBarSearchBtnText=Start
+InTopicSearchBtnText=Start
+SearchLabel=Søg
+SearchPrompt=- Søg -
+PreTooltip=Forrige emne
+NextTooltip=Næste emne
+WebSearch=WebSearch
+SyncTocTooltip=Synkronisér indholdsfortegnelse
+Book=Bog
+Page=Side
+Remote_Page=Fjernside
+Show_Navigation_Component=Vis navigationskomponent
+Hide_Navigation_Component=Skjul navigationskomponent
+nls_edit_label=Indtast spørgsmålet:
+nls_button_go_hint=Søgning
+nls_button_go_text=Start
+nls_body_instruction=Indtast spørgsmålet i tekstruden herover, og klik så på GO
+nls_body_empty=Beklager, vi kan ikke finde et passende svar på det spørgsmål.
+IndexSelectTopicTitle=Vælg et emne
+IndexSelectTopicLabel=Vælg et emne og klik så på display
+IndexSelectTopicError=Værsgo, vælg et emne.
+IndexAlphabetBookmarks=ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ
+MergeError1=Det flettede hjælpesystem
+MergeError2=anvender et andet sprog end hovedhjælpesystemet, hvilket medfører, at indekset og fuldtekst-søgefunktionaliteten deaktiveres i det flettede hjælpesystem.
+PoweredBy=Udviklet af
+GeneratedBy=Genereret af
+Author=Forfatter
+About=Om
+Print=Udskriv
+
+[PrintedDoc]
+ChapterFileNamePrefix=Kapitel_
+TitlePage=Titel Side
+TitlePageFileName=Kapitel__Titel_Side.doc
+TableOfContents=Indholdsfortegnelse
+
+CrossReferencePrefix=Se
+GlossaryHeadingStyleName=Glossar Overskrift
+GlossaryTermStyleName=Glossar Term
+GlossaryDefinitionStyleName=Glossar Definition
+TitlePageTitleStyleName=Titel Side Titel
+TocPageTitleStyleName=Indholdsfortegnelse Side Titel

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Bem-vindo" url="Welcome.htm" />
+<book name="Instalar o Jogo" url="Installing_the_game.htm" >
+  <item name="CD/DVD (Problema)" url="cd_dvd_issues.htm" />
+  <item name="Bloqueia do computador" url="crashes.htm" />
+</book>
+<book name="Iniciar o Jogo" url="Starting_the_game.htm" >
+  <item name="O meu jogo não começa" url="my_game_fails_to_start.htm" />
+  <item name="CD/DVD (Problema)" url="cd_dvd_issues2.htm" />
+  <item name="Execução Automática" url="autorun.htm" />
+  <item name="Bloqueia do computador" url="crash_issues2.htm" />
+  <item name="Mensagem de erro" url="error_message.htm" />
+</book>
+<book name="Questões Encontradas Durante o Jogo" url="Gameplay_Issues.htm" >
+  <item name="Ecrã Azul" url="blue_screen_.htm" />
+  <item name="Bloqueia do computador" url="crash_issues3.htm" />
+  <item name="Corrupções Gráficas" url="Graphic_corruption.htm" />
+</book>
+<book name="Passos para resolução de problemas" >
+  <item name="Terminar as tarefas em segundo plano" url="Ending_background_tasks.htm" />
+  <item name="Actualizar o controlador da placa de vídeo" url="Updating_your_video_driver.htm" />
+  <item name="Actualizar o controlador da placa de som" url="Updating_your_sound_driver.htm" />
+  <item name="Placa de som" url="Sound_card.htm" />
+  <item name="Monitor" url="Monitor.htm" />
+  <item name="Espaço no disco rígido" url="Hard_Drive_space.htm" />
+  <item name="Definições de visualização" url="display_settings.htm" />
+  <item name="Iniciar a instalação manualmente" url="Starting_the_installation_manually.htm" />
+  <item name="Placa de vídeo" url="Video_Card.htm" />
+  <item name="Requisitos Mínimos " url="Minimum_requirements.htm" />
+  <item name="DirectX" url="directx.htm" />
+  <item name="Resolução de problemas do CD/DVD" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Iniciar o jogo manualmente" url="Manually_starting_the_game.htm" />
+  <item name="Limpar o CD/DVD" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Eliminar ficheiros temporários" url="Emptying_Temporary_Files.htm" />
+</book>
+<remoteitem name="Suporte" url="http://europe.ea.com" target="_blank" />
+<item name="Garantia" url="Warranty.htm" />
+
+</tocdata>

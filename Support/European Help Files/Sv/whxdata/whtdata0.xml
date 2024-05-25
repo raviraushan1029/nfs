@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Välkommen" url="Welcome.htm" />
+<book name="Installera Spelet" url="Installing_the_game.htm" >
+  <item name="CD (Problem)" url="cd_dvd_issues.htm" />
+  <item name="Dator krasch relaterade problem" url="crashes.htm" />
+</book>
+<book name="Starta Spelet" url="Starting_the_game.htm" >
+  <item name="Spelet kraschar varje gång jag klickar på ”Spela”" url="my_game_fails_to_start.htm" />
+  <item name="CD (Problem)" url="cd_dvd_issues2.htm" />
+  <item name="CD-skivan startas inte automatiskt" url="autorun.htm" />
+  <item name="Dator krasch relaterade problem" url="crash_issues2.htm" />
+  <item name="Fel meddelande" url="error_message.htm" />
+</book>
+<book name="Problem När Du Spelar" url="Gameplay_Issues.htm" >
+  <item name="Blå Skärm" url="blue_screen_.htm" />
+  <item name="Dator krasch relaterade problem" url="crash_issues3.htm" />
+  <item name="Grafikfel (Problem)" url="Graphic_corruption.htm" />
+</book>
+<book name="Felsökningssteg" >
+  <item name="Avsluta program som körs i bakgrunden" url="Ending_background_tasks.htm" />
+  <item name="Uppdatera grafikkortets drivrutin " url="Updating_your_video_driver.htm" />
+  <item name="Uppdatera ljudkortets drivrutin " url="Updating_your_sound_driver.htm" />
+  <item name="ljudkortets" url="Sound_card.htm" />
+  <item name="Konfigurera bildskärmen" url="Monitor.htm" />
+  <item name="Hårddiskutrymme" url="Hard_Drive_space.htm" />
+  <item name="Kontrollera bildskärmsinställningarna" url="display_settings.htm" />
+  <item name="Starta installationen manuellt " url="Starting_the_installation_manually.htm" />
+  <item name="Grafikkort" url="Video_Card.htm" />
+  <item name="Minimikrav" url="Minimum_requirements.htm" />
+  <item name="DirectX" url="directx.htm" />
+  <item name="CD-felsökning" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Så här startar du spelet manuellt" url="Manually_starting_the_game.htm" />
+  <item name="Rengöra CD-skivan" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Ta bort temporära filer" url="Emptying_Temporary_Files.htm" />
+</book>
+<item name="Garanti" url="Warranty.htm" />
+<remoteitem name="Support" url="http://www.support.sverige.ea.com/" target="_blank" />
+
+</tocdata>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subs-interface-reply SYSTEM "http://account.ea.com/subsxml/subs-interface.dtd">
+<subs-interface-reply version="2.0">
+   <status>0</status>
+   <message>Success</message>
+   <get-registration-dictionary-reply>
+      <message-dictionary>
+         <message id="00GAMENAME-1"><![CDATA[Need for Speed™ Most Wanted]]></message>
+         <message id="BUTTONSANDLABELS-1"><![CDATA[REGISTRACE]]></message>
+         <message id="BUTTONSANDLABELS-10"><![CDATA[OK]]></message>
+         <message id="BUTTONSANDLABELS-11"><![CDATA[ZRUŠIT]]></message>
+         <message id="BUTTONSANDLABELS-12"><![CDATA[ZKUSIT ZNOVU]]></message>
+         <message id="BUTTONSANDLABELS-13"><![CDATA[ZAVŘÍT]]></message>
+         <message id="BUTTONSANDLABELS-14"><![CDATA[KONEC]]></message>
+         <message id="BUTTONSANDLABELS-15"><![CDATA[DOKONČIT POZDĚJI]]></message>
+         <message id="BUTTONSANDLABELS-2"><![CDATA[ZAREGISTROVAT POZDĚJI]]></message>
+         <message id="BUTTONSANDLABELS-3"><![CDATA[ZAREGISTROVAT NYNÍ]]></message>
+         <message id="BUTTONSANDLABELS-4"><![CDATA[ANO]]></message>
+         <message id="BUTTONSANDLABELS-5"><![CDATA[NE]]></message>
+         <message id="BUTTONSANDLABELS-6"><![CDATA[PŘEDCHOZÍ]]></message>
+         <message id="BUTTONSANDLABELS-7"><![CDATA[DALŠÍ]]></message>
+         <message id="BUTTONSANDLABELS-8"><![CDATA[ZPĚT]]></message>
+         <message id="BUTTONSANDLABELS-9"><![CDATA[HOTOVO]]></message>
+         <message id="CONNECT1A-1"><![CDATA[<B>Pokud si chcete zaregistrovat svou hru, musíte být připojeni k Internetu.</b>]]></message>
+         <message id="CONNECT1A-2"><![CDATA[Pokud stále ještě nejste připojeni k Internetu, učiňte tak prosím. Pokud jste již připojeni, stiskněte tlačítko <b>Další</b> a pokračujte.<BR><BR>]]></message>
+         <message id="CONNECT1A-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Co mám dělat, pokud nemám připojení k Internetu?</u></a></font>]]></message>
+         <message id="CONNECT1B-1"><![CDATA[<b>Aby bylo možno ověřit Vaši registraci nebo provést kontrolu údajů pro skvělé reklamní nabídky, musíte být připojeni k Internetu .</b>]]></message>
+         <message id="CONNECT1B-2"><![CDATA[Pokud stále ještě nejste připojeni k Internetu, učiňte tak prosím. Pokud jste již připojeni, Stiskněte tlačítko <b>Další</b> a Pokračujte..<BR><BR>]]></message>
+         <message id="CONNECT1B-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Co mám dělat, pokud nemám připojení k Internetu?</u></a></font>]]></message>
+         <message id="CONNECT1C-1"><![CDATA[<b>Nyní se obracím na EA... </b>]]></message>
+         <message id="CONNECT1C-2"><![CDATA[<b>Buďte trpěliví - může to chvíli trvat.</b>]]></message>
+         <message id="CONNECTED1A-1"><![CDATA[<b>Bylo navázáno spojení.</b>]]></message>
+         <message id="CONNECTED1A-2"><![CDATA[<b>Spuštění registrace…</b>]]></message>
+         <message id="CONNECTED1B-1"><![CDATA[<b>Není možno se spojit s EA</b>]]></message>
+         <message id="CONNECTED1B-2"><![CDATA[Není možno navázat kontakt se systémem registrace produktů EA. Pokud chcete provést registraci svého produktu, musíte být připojeni k Internetu. Pokud ještě nejste připojeni k Internetu, učiňte tak prosím nyní.]]></message>
+         <message id="CONNECTED1B-3"><![CDATA[Pokud jste připojeni, stiskněte tlačítko <b>Zkusit znovu</B>.]]></message>
+         <message id="CONNECTED1B-4"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Co bych měl/a dělat, když se nemůžu ani na několikátý pokus připojit?</u></a></font>]]></message>
+         <message id="CONNECTHOWTO-1"><![CDATA[<b>Pokud chcete zaregistrovat svůj produkt, musíte mít připojení na Internet.</b>K tomu, abyste mohl/a hrát, nemusíte hru registrovat. Avšak pokud chcete svůj produkt zaregistrovat a nemůžete se připojit k systému registrace produktů EA ani po několika pokusech, navrhujeme tento postup:]]></message>
+         <message id="CONNECTHOWTO-2"><![CDATA[Zkontrolujte, zda je Vaše připojení k Internetu funkční.]]></message>
+         <message id="CONNECTHOWTO-3"><![CDATA[Obraťte se na technickou podporu EA. Informace o kontaktu na oddělením podpory EA naleznete na příručce ke hře.]]></message>
+         <message id="CONNECTHOWTO-4"><![CDATA[Běžte na <font color="#333399"><a href="http://www.eagamereg.com"><u>www.eagamereg.com</u></a> a vyplňte formulář pro registraci na webu.</font>]]></message>
+         <message id="CONNECTING-1"><![CDATA[<b>Kontakt na EA</b>]]></message>
+         <message id="CONNECTING-2"><![CDATA[Pokoušíme se spojit se systémem registrace produktů EA. Buďte prosím trpělivý, může to nějakou dobu trvat.]]></message>
+         <message id="NOINTERNET-1"><![CDATA[<B>Nemáte připojení k internetu?  To není problém!</B>]]></message>
+         <message id="NOINTERNET-2"><![CDATA[Hru {client:game-name} můžete hrát bez její registrace. Pokud potřebujete zavolat technickou podporu, budete požádáni, abyste svou hru zaregistrovali prostřednictvím telefonu. Číslo technické podpory Vaší hry naleznete na příručce ke hře.<BR>]]></message>
+         <message id="NOINTERNET-3"><![CDATA[Užijte si svou hru!]]></message>
+         <message id="NOINTERNET-4"><![CDATA[Electronic Arts]]></message>
+         <message id="OFFLINEEXITCONFIRM-1"><![CDATA[<b>Opravdu chcete skončit?</b>]]></message>
+         <message id="REGISTERLATER-1"><![CDATA[<b>Pokud nezaregistrujete svůj produkt, připravujete se o některé skvělé výhody, včetně:</b><BR>]]></message>
+         <message id="REGISTERLATER-2"><![CDATA[&nbsp;]]></message>
+         <message id="REGISTERLATER-3"><![CDATA[<li>Plná technická podpora.</li>]]></message>
+         <message id="REGISTERLATER-4"><![CDATA[<li>Vnitřní informace o Vašich oblíbených hrách EA.</li>]]></message>
+         <message id="REGISTERLATER-5"><![CDATA[<li>Kód pro triky nebo herní typy pro Vaši hru zdarma!</li>]]></message>
+         <message id="REGISTERLATER-6"><![CDATA[<BR><b>Zaregistrujte se a užijte si hru.</b>]]></message>
+         <message id="SIGNIN1B-1"><![CDATA[<b>Toto znění {client:game-name} nemůže být zaregistrováno.</b> K tomu, abyste mohli hrát, tento produkt nemusíte registrovat. Můžete jít na <font color="#333399"><a href="http://www.ea.com"><u>www.ea.com</u></a></font>, kde získáte nejnovější informace o produktech EA a přihlásit se pro zasílání novinek od EA.<BR>]]></message>
+         <message id="START1A-1"><![CDATA[<b>Získejte kód pro triky nebo herní tipy pro svou hru a mnohé další!</b> <BR><BR>]]></message>
+         <message id="START1A-2"><![CDATA[<b>Nyní zaregistrujte {client:game-name} a získejte tyto skvělé výhody!</b><BR>]]></message>
+         <message id="START1A-3"><![CDATA[<li>Kód pro podvody nebo herní typy pro Vaši hru zdarma!</li>]]></message>
+         <message id="START1A-4"><![CDATA[<li>Vnitřní informace o Vašich oblíbených hrách EA.</li>]]></message>
+         <message id="START1A-5"><![CDATA[<li>Plná technická podpora.</li>]]></message>
+         <message id="START1A-6"><![CDATA[&nbsp;]]></message>
+         <message id="START1B-1"><![CDATA[<b>Již jste zaregistrovali {client:game-name}.</b>]]></message>
+         <message id="START1B-2"><![CDATA[Chcete si zkontrolovat své registrační údaje nebo zodpovědět některé další otázky pro speciální nabídky her EA?]]></message>
+         <message id="TITLE-PREFIX"><![CDATA[default]]></message>
+         <message id="TITLE-SUFFIX"><![CDATA[default]]></message>
+      </message-dictionary>
+   </get-registration-dictionary-reply>
+</subs-interface-reply>

@@ -1,0 +1,184 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+<head>
+<title>Virtual Memory</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="stylesheet" href="../default_ns.css"><script type="text/javascript" language="JavaScript" title="WebHelpSplitCss">
+<!--
+if (navigator.appName !="Netscape")
+{   document.write("<link rel='stylesheet' href='../default.css'>");}
+//-->
+</script>
+<style type="text/css">
+<!--
+table.whs1 { x-cell-content-align:top; background-color:#405fc8; border-bottom-style:Solid; border-top-style:Solid; border-top-width:4px; border-bottom-width:4px; width:104.712%; border-spacing:0px; }
+col.whs2 { width:96.335%; }
+col.whs3 { width:3.665%; }
+tr.whs4 { x-cell-content-align:top; height:199px; }
+td.whs5 { width:96.335%; padding-right:0px; padding-left:0px; border-left-style:none; border-top-style:None; border-right-style:none; border-bottom-style:none; }
+h1.whs6 { margin-left:12px; margin-right:14px; }
+p.whs7 { margin-left:12px; margin-right:22px; }
+td.whs8 { width:3.665%; padding-right:10px; padding-left:10px; border-top-style:None; border-right-style:None; border-bottom-style:None; }
+table.whs9 { x-cell-content-align:Center; border-spacing:0px; }
+col.whs10 { width:150px; }
+col.whs11 { width:616px; }
+tr.whs12 { x-cell-content-align:center; height:30px; }
+td.whs13 { width:150px; padding-right:10px; padding-left:10px; border-left-style:Solid; border-left-color:#000000; border-top-color:#000000; border-top-style:Solid; border-right-style:Solid; border-right-color:#000000; border-bottom-color:#000000; border-bottom-style:Solid; border-left-width:1px; border-top-width:1px; border-bottom-width:1px; border-right-width:1px; background-color:#405fc8; }
+p.whs14 { margin-left:0px; }
+img_whs15 { border:none; width:40px; height:20px; border-style:none; float:left; }
+p.whs16 { color:#ffffff; }
+td.whs17 { width:616px; padding-right:10px; padding-left:10px; background-color:#405fc8; border-top-width:1px; border-top-style:Solid; border-top-color:#000000; border-right-width:1px; border-right-color:#000000; border-right-style:Solid; border-bottom-width:1px; border-bottom-style:Solid; border-bottom-color:#000000; }
+p.whs18 { font-size:12pt; }
+-->
+</style><script type="text/javascript" language="JavaScript">
+<!--
+if ((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) == 4))
+{
+  var strNSS = "<style type='text/css'>";
+  strNSS += "p.whs14 {margin-left:1pt; }";
+  strNSS +="</style>";
+  document.write(strNSS);
+}
+//-->
+</script>
+<script type="text/javascript" language="JavaScript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+onerror = null; 
+//-->
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute; left:0px; top:0px; z-index:4; visibility:hidden; }
+-->
+</style><script type="text/javascript" language="javascript1.2" src="../whmsg.js"></script>
+<script type="text/javascript" language="javascript" src="../whver.js"></script>
+<script type="text/javascript" language="javascript1.2" src="../whproxy.js"></script>
+<script type="text/javascript" language="javascript1.2" src="../whutils.js"></script>
+<script type="text/javascript" language="javascript1.2" src="../whtopic.js"></script>
+</head>
+<body><script type="text/javascript" language="javascript1.2">
+<!--
+if (window.gbWhTopic)
+{
+	if (window.addTocInfo)
+	{
+	addTocInfo("Standard Items\nVirtual Memory");
+addButton("show",BTN_TEXT,"Show","","","","",0,0,"","","");
+
+	}
+	if (window.writeBtnStyle)
+		writeBtnStyle();
+
+	if (window.writeIntopicBar)
+		writeIntopicBar(1);
+
+	if (window.setRelStartPage)
+	{
+	setRelStartPage("../Electronic_Arts_Technical_Support.htm");
+
+		autoSync(1);
+		sendSyncInfo();
+		sendAveInfoOut();
+	}
+}
+else
+	if (window.gbIE4)
+		document.location.reload();
+//-->
+</script><script type="text/javascript" language="JavaScript1.2" x-save-method="compute-relative" src="../ehlpdhtm.js" name="EHELP_DHTM"></script>
+<script type="text/javascript"
+		language=JavaScript1.2>
+<!-- 
+if( typeof( kadovFilePopupInit ) != 'function' ) kadovFilePopupInit = new Function();if( typeof( kadovTextPopupInit ) != 'function' ) kadovTextPopupInit = new Function();
+ //-->
+</script>
+
+
+<table x-use-null-cells cellspacing="0" width="104.712%" bgcolor="#405FC8" class="whs1">
+<col class="whs2">
+<col class="whs3">
+
+<tr valign="top" class="whs4">
+<td width="96.335%" class="whs5">
+<h1 class="whs6">Virtual Memory</h1>
+<p class="whs7">Another factor that may 
+ hinder the ability of a game to install to a designated drive is the size 
+ of the <a class="glossterm" href="javascript:kadovTextPopup(this)" id="a1">swap file</a><span class=glosstext style="display: 'none';" id=POPUP183992424 >   A file stored on the computer hard disk drive that is used as a temporary 
+ location to store information that is not currently being used by the 
+ computer RAM. It is perfectly normal for the swap file or page file to 
+ grow in size, sometimes growing several hundred megs in size.</span>. 
+ &nbsp;A file 
+ stored on the computer hard disk drive that is used as a temporary location 
+ to store information that is not currently being used by the computer 
+ RAM. It is perfectly normal for the swap file or page file to grow in 
+ size, sometimes growing to more than over one gigabyte several hundred 
+ megs in size. that is needed by Windows' <a class="glossterm" href="javascript:kadovTextPopup(this)" id="A2">Virtual Memory</a><span class=glosstext style="display: 'none';" id=POPUP241172063 >   Virtual memory is hard drive space that Windows sets aside as cache. 
+ Windows will be able to offload items from main RAM so that it can still 
+ be accessed by the program again.</span>. 
+ &nbsp;Virtual 
+ memory is hard drive space that Windows sets aside as cache. Windows will 
+ be able to offload items from main RAM so that it can still be accessed 
+ by the program again.. &nbsp;Set 
+ aside an absolute minimum of 100 250 megabytes of free space on your designated 
+ swap drive (hard drive) regardless of what partition you are installing 
+ the game to. &nbsp;This 
+ will help prevent virtual memory errors and Windows warning messages regarding 
+ low disk space. &nbsp;</p>
+<p class="whs7">&nbsp;</p>
+<p class="whs7">If you are using up too 
+ much Virtual Memory the next step would be to <a href="STND_Close_Background_Tasks.htm"
+													style="x-text-underline: normal; /*begin!kadov{{*/ text-decoration: underline; /*}}end!kadov*/ ">Close 
+ Background Tasks</a>.</p>
+<p class="whs7">&nbsp;</td>
+<td width="3.665%" class="whs8">
+<p>&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+<table x-use-null-cells cellspacing="0" class="whs9">
+<script language='JavaScript'><!--
+if ((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) == 4)) document.write("</table><table x-use-null-cells cellspacing='0' border='1' bordercolor='black' bordercolorlight='black' bordercolordark='black'>");
+//--></script>
+<col class="whs10">
+<col class="whs11">
+
+<tr valign="middle" class="whs12">
+<td colspan="1" rowspan="1" bgcolor="#405FC8" width="150px" class="whs13">
+<p class="whs14"><img src="../images/tip.jpg" x-maintain-ratio="TRUE" width="40px" height="20px" align="left" border="0" class="img_whs15"></p>
+<p class="whs16"><span style="font-weight: bold; font-size: 8pt;"><font size=1 style="font-size:8pt;"><B>EA 
+ Tech Tip:</B></font></span> </td>
+<td colspan="1" rowspan="1" bgcolor="#405FC8" width="616px" class="whs17">
+<p class="whs18">You can free up hard drive space by uninstalling 
+ unused programs through Add/Remove Programs in the Windows Control Panel</td></tr>
+<script language='JavaScript'><!--
+if ((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) == 4)) document.write("</table></table><table>");
+//--></script>
+</table>
+
+<p>&nbsp;</p>
+
+<script language="javascript1.2" type="text/javascript"><!--
+kadovTextPopupInit('a1','POPUP183992424');
+//--></script><script language="javascript1.2" type="text/javascript"><!--
+kadovTextPopupInit('A2','POPUP241172063');
+//--></script><script type="text/javascript" language="javascript1.2">
+<!--
+if (window.writeIntopicBar)
+	writeIntopicBar(0);
+//-->
+</script>
+</body>
+</html>

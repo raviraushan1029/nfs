@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<indexdata>
+<key name="Autorun" >
+  <topic name="Autorun" url="Autorun.htm" />
+</key>
+<key name="Background tasks" >
+  <topic name="Ending background tasks" url="Ending_background_tasks.htm" />
+  <key name="Ending" >
+    <topic name="Ending background tasks" url="Ending_background_tasks.htm" />
+  </key>
+</key>
+<key name="Blue Screen" >
+  <topic name="Blue Screen" url="Blue_Screen_.htm" />
+</key>
+<key name="CD/DVD" >
+  <topic name="CD/DVD Issues" url="CD_DVD_Issues2.htm" />
+  <topic name="CD/DVD Troubleshooting" url="CD_DVD_Troubleshooting.htm" />
+  <topic name="Cleaning your CD/DVD" url="Cleaning_your_CD_DVD.htm" />
+  <topic name="I place CD/DVD" url="CD_DVD_Issues.htm" />
+</key>
+<key name="CD/DVD Issues" >
+  <topic name="CD/DVD Issues" url="CD_DVD_Issues2.htm" />
+</key>
+<key name="CD/DVD Troubleshooting" >
+  <topic name="CD/DVD Troubleshooting" url="CD_DVD_Troubleshooting.htm" />
+</key>
+<key name="Crash Issues" >
+  <topic name="Crash Issues" url="Crash_Issues2.htm" />
+</key>
+<key name="DirectX" >
+  <topic name="DirectX" url="DirectX.htm" />
+</key>
+<key name="Display Settings" >
+  <topic name="Display Settings" url="Display_Settings.htm" />
+</key>
+<key name="Drive" >
+  <topic name="Hard Drive space" url="Hard_Drive_space.htm" />
+  <topic name="I place CD/DVD" url="CD_DVD_Issues.htm" />
+</key>
+<key name="Electronic Arts" >
+  <topic name="Welcome" url="Welcome.htm" />
+</key>
+<key name="Electronic Arts Product Support" >
+  <topic name="Welcome" url="Welcome.htm" />
+</key>
+<key name="Emptying" >
+  <topic name="Emptying Temporary Files" url="Emptying_Temporary_Files.htm" />
+  <key name="Temporary Files" >
+    <topic name="Emptying Temporary Files" url="Emptying_Temporary_Files.htm" />
+  </key>
+</key>
+<key name="Ending" >
+  <topic name="Ending background tasks" url="Ending_background_tasks.htm" />
+</key>
+<key name="Error message" >
+  <topic name="Error message" url="Error_message.htm" />
+</key>
+<key name="Europe.ea.com" >
+  <topic name="Welcome" url="Welcome.htm" />
+</key>
+<key name="Game" >
+  <topic name="Installing the game" url="Installing_the_game.htm" />
+  <topic name="Manually starting the game" url="Manually_starting_the_game.htm" />
+  <topic name="Starting the game" url="Starting_the_game.htm" />
+  <key name="Installing" >
+    <topic name="Installing the game" url="Installing_the_game.htm" />
+  </key>
+</key>
+<key name="Gameplay Issues" >
+  <topic name="Gameplay Issues" url="Gameplay_Issues.htm" />
+</key>
+<key name="Graphic corruption" >
+  <topic name="Graphic corruption" url="Graphic_corruption.htm" />
+</key>
+<key name="Hard Drive space" >
+  <topic name="Hard Drive space" url="Hard_Drive_space.htm" />
+</key>
+<key name="Installation manually" >
+  <topic name="Starting the installation manually" url="Starting_the_installation_manually.htm" />
+</key>
+<key name="Installing" >
+  <topic name="Installing the game" url="Installing_the_game.htm" />
+  <key name="game" >
+    <topic name="Installing the game" url="Installing_the_game.htm" />
+  </key>
+</key>
+<key name="Manually" >
+  <topic name="Manually starting the game" url="Manually_starting_the_game.htm" />
+</key>
+<key name="Minimum requirements" >
+  <topic name="Minimum requirements" url="Minimum_requirements.htm" />
+</key>
+<key name="Monitor" >
+  <topic name="Monitor" url="Monitor.htm" />
+</key>
+<key name="My game" >
+  <topic name="My game fails to start" url="My_game_fails_to_start.htm" />
+</key>
+<key name="README.TXT" >
+  <topic name="Welcome" url="Welcome.htm" />
+</key>
+<key name="Sound card" >
+  <topic name="Sound card" url="Sound_card.htm" />
+</key>
+<key name="Sound driver" >
+  <topic name="Updating your sound driver" url="Updating_your_sound_driver.htm" />
+</key>
+<key name="Start" >
+  <topic name="Manually starting the game" url="Manually_starting_the_game.htm" />
+  <topic name="My game fails to start" url="My_game_fails_to_start.htm" />
+  <topic name="Starting the game" url="Starting_the_game.htm" />
+  <topic name="Starting the installation manually" url="Starting_the_installation_manually.htm" />
+</key>
+<key name="Temporary Files" >
+  <topic name="Emptying Temporary Files" url="Emptying_Temporary_Files.htm" />
+  <key name="Emptying" >
+    <topic name="Emptying Temporary Files" url="Emptying_Temporary_Files.htm" />
+  </key>
+</key>
+<key name="Video Card" >
+  <topic name="Video Card" url="Video_Card.htm" />
+</key>
+<key name="Video driver" >
+  <topic name="Updating your video driver" url="Updating_your_video_driver.htm" />
+</key>
+<key name="Warranty" >
+  <topic name="Warranty" url="Warranty.htm" />
+</key>
+<key name="Welcome" >
+  <topic name="Welcome" url="Welcome.htm" />
+</key>
+
+</indexdata>

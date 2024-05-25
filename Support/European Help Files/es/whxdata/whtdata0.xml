@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Bienvenido" url="Welcome.htm" />
+<book name="Instalación Del  Juego" url="Instalaci_n_Del_Juego.htm" >
+  <item name="CD/DVD (Errores)" url="CD_DVD_(Errores).htm" />
+  <item name="La instalación se bloquea" url="La_instalaci_n_se_bloquea_.htm" />
+</book>
+<book name="Inicio Del Juego" url="Inicio_Del_Juego.htm" >
+  <item name="El juego no se inicia..." url="El_juego_no_se_inicia_.htm" />
+  <item name="CD/DVD (Errores)" url="CD_DVD_(Errores)2.htm" />
+  <item name="Reproducción automática " url="Reproducci_n_autom_tica_.htm" />
+  <item name="El juego se bloquea " url="El_juego_se_bloquea.htm" />
+  <item name="Mensaje de error" url="Error_message.htm" />
+</book>
+<book name="Problemas De Mecánica De Juego" url="Gameplay_Issues.htm" >
+  <item name="Pantalla Azul" url="blue_screen_.htm" />
+  <item name="El juego se bloquea " url="crash_issues3.htm" />
+  <item name="Gráficos" url="graphic_corruption.htm" />
+</book>
+<book name="Pasos para la resolución de problemas" >
+  <item name="Cómo finalizar tareas en segundo plano" url="Ending_background_tasks.htm" />
+  <item name="Cómo actualizar el controlador de vídeo" url="Updating_your_video_driver.htm" />
+  <item name="Cómo actualizar el controlador de sonido" url="Updating_your_sound_driver.htm" />
+  <item name="Tarjeta de sonido" url="Sound_card.htm" />
+  <item name="Monitor" url="Monitor.htm" />
+  <item name="Espacio en el disco duro" url="Hard_Drive_space.htm" />
+  <item name="Configuración de la pantalla" url="Display_Settings.htm" />
+  <item name="Inicio manual de la instalación" url="Starting_the_installation_manually.htm" />
+  <item name="Tarjeta de vídeo" url="Video_Card.htm" />
+  <item name="Requisitos mínimos" url="Minimum_requirements.htm" />
+  <item name="DirectX" url="directx.htm" />
+  <item name="Solución de problemas de CD/DVD" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Inicio manual del juego" url="Manually_starting_the_game.htm" />
+  <item name="Limpieza del CD/DVD" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Borrado de archivos temporales" url="Emptying_Temporary_Files.htm" />
+</book>
+<item name="Garantía" url="Warranty.htm" />
+<remoteitem name="Soporte" url="http://europe.ea.com" target="_blank" />
+
+</tocdata>

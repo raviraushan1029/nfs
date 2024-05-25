@@ -1,0 +1,102 @@
+[GlossaryTab]
+TabCaption=&Ordlista
+TermCaption=&Term
+DefinitionCaption=&Definition för:
+
+[BrowseSequence]
+PreCaption=Föregående
+PreTooltip=Förra ämnet
+NextCaption=Nästa
+NextTooltip=Nästa ämne
+BlockTooltip=Välj lässekvens
+
+[Common]
+Contents=Innehåll
+Index=Index
+Search=Sök
+Glossary=Ordlista
+Logo/Author=Drivs av
+Show=Visa
+Hide=Göm
+SyncToc=SyncToc
+Prev=<<
+Next=>>
+Disabled Prev=<<
+Disabled Next=>>
+Seperate = |
+
+[WebHelp]
+Cancel=Avbryt
+CantOpenURLorFile=Kan inte öppna URL eller fil
+CompletingContents=Avslutar innehåll...
+Display=Visa
+Term=Term:
+Definition=Definition:
+Done=Gjort
+Find=Finn
+IndexInputPrompt=Skriv in ordet du önskar finna:
+RelateTopicListPrompt=Klicka på ett ämne och sedan på Visa.
+LoadingData=Vänta medan vi läser data...
+LoadingContents=Laddar innehållet, ett ögonblick...
+LoadingContentsData=Läser data, klicka här om du vill sluta...
+LoadingFTS=Läser sökdata...
+LoadingIndex=Ladda index...
+LoadingTOCItem=Laddar innehållsförteckning:
+Searching=Söker...
+FtsInputPrompt=Skriv in sökordet/-orden :
+TopicsFound=Ämnen hittade
+BrowserLimitedMessage=Din webbläsare stöder inte ramar. Vi rekommenderar att du uppdaterar läsaren till en version som stöder ramar.
+SuggestViewNoFrameMessage=För att granska Hjälpsystemet utan ramar klicka på denna
+SuggestViewNoFrameMsg2=hyperlänk.
+TopicsNotFound=Inga ämnen hittade.
+CantSearch=Kan inte söka efter den här frasen.
+JS_alert_appletNotLoad = Kunde inte ladda applet. Om du använder en gammal version av Netscape måste prefs.js-filen redigeras.
+JS_alert_colorlimitation=WebHelp har upptäckt att din bildskärm är inställd på 16 färger. För full WebHelp-support måste du ställa in skärmen på 256 eller fler färger.
+Blank_topic_text=Detta ämne skapades av guiden WinHelp Project Conversion Wizard, och är destinationen för ett saknat ämen eller en avbruten hyperlänk.
+JS_alert_ProjectLoadingFail=Kunde inte läsa datan korrekt. Klicka på Refresh.
+JS_alert_cantLoadProject=Kan inte ladda projektet:
+JS_alert_ErrorInLoading=Kunde inte ladda navigeringselementet. Återskapa WebHelp.
+IndexBtnText=Gå
+FtsBtnText=Gå
+ToolBarSearchBtnText=Gå
+InTopicSearchBtnText=Gå
+SearchLabel=Sök
+SearchPrompt=- Sök -
+PreTooltip=Förra ämnet
+NextTooltip=Nästa ämne
+WebSearch=WebSearch
+SyncTocTooltip=Synkronisera innehållsförteckningen
+Book=Bok
+Page=Sida
+Remote_Page=Fjärrsida
+Show_Navigation_Component=Visa navigeringselementet
+Hide_Navigation_Component=Dölj navigeringselementet
+nls_edit_label=Skriv in din fråga:
+nls_button_go_hint=Gå till sökning
+nls_button_go_text=Gå
+nls_body_instruction=Skriv in din fråga i textfältet ovan, och klicka sedan på GO.
+nls_body_empty=Tyvärr kunde vi inte komma på ett bra svar på din fråga.
+IndexSelectTopicTitle=Välj ett ämne
+IndexSelectTopicLabel=Välj ett ämne och klicka sedan på Visa
+IndexSelectTopicError=Välj ett ämne.
+IndexAlphabetBookmarks=ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ
+MergeError1=Det sammanslagna hjälpsystemet
+MergeError2=använder ett annat språk än huvudhjälpsystemet vilket leder till att index och funktionen för fulltextsökning inaktiveras i det sammanslagna hjälpsystemet.
+PoweredBy=Drivs av
+GeneratedBy=Genereras av
+Author=Författare
+About=Om
+Print=Skriv ut
+
+[PrintedDoc]
+ChapterFileNamePrefix=Kapitel_
+TitlePage=Titelsida
+TitlePageFileName=Kapitel__Titelsida.doc
+TableOfContents=Innehållsförteckning
+
+CrossReferencePrefix=Se
+GlossaryHeadingStyleName=Ordlisterubrik
+GlossaryTermStyleName=Ordlisteterm
+GlossaryDefinitionStyleName=Ordlistedefinition
+TitlePageTitleStyleName=Titelsidans rubrik
+TocPageTitleStyleName=Innehållsförteckningens sidtitel

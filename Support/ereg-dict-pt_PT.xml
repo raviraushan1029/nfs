@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subs-interface-reply SYSTEM "http://account.ea.com/subsxml/subs-interface.dtd">
+<subs-interface-reply version="2.0">
+   <status>0</status>
+   <message>Success</message>
+   <get-registration-dictionary-reply>
+      <message-dictionary>
+         <message id="00GAMENAME-1"><![CDATA[Need for Speed™ Most Wanted]]></message>
+         <message id="BUTTONSANDLABELS-1"><![CDATA[REGISTO]]></message>
+         <message id="BUTTONSANDLABELS-10"><![CDATA[OK]]></message>
+         <message id="BUTTONSANDLABELS-11"><![CDATA[CANCELAR]]></message>
+         <message id="BUTTONSANDLABELS-12"><![CDATA[TENTAR NOVAMENTE]]></message>
+         <message id="BUTTONSANDLABELS-13"><![CDATA[FECHAR]]></message>
+         <message id="BUTTONSANDLABELS-14"><![CDATA[SAIR]]></message>
+         <message id="BUTTONSANDLABELS-15"><![CDATA[TERMINAR MAIS TARDE]]></message>
+         <message id="BUTTONSANDLABELS-2"><![CDATA[REGISTAR MAIS TARDE]]></message>
+         <message id="BUTTONSANDLABELS-3"><![CDATA[REGISTAR AGORA]]></message>
+         <message id="BUTTONSANDLABELS-4"><![CDATA[SIM]]></message>
+         <message id="BUTTONSANDLABELS-5"><![CDATA[NÃO]]></message>
+         <message id="BUTTONSANDLABELS-6"><![CDATA[ANTERIOR]]></message>
+         <message id="BUTTONSANDLABELS-7"><![CDATA[SEGUINTE]]></message>
+         <message id="BUTTONSANDLABELS-8"><![CDATA[VOLTAR]]></message>
+         <message id="BUTTONSANDLABELS-9"><![CDATA[TERMINAR]]></message>
+         <message id="CONNECT1A-1"><![CDATA[<B>Para poder registar o seu jogo, deve estar ligado à Internet.</b>]]></message>
+         <message id="CONNECT1A-2"><![CDATA[Se ainda não está ligado à Internet, ligue-se agora.  Depois de estar ligado, prima o botão <b>Seguinte</b> para continuar.<BR><BR>]]></message>
+         <message id="CONNECT1A-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>O que devo fazer caso não tenha uma ligação à Internet?</u></a></font>]]></message>
+         <message id="CONNECT1B-1"><![CDATA[<B>Para verificar o seu registo ou procurar excitantes ofertas promocionais, deve estar ligado à Internet.</b>]]></message>
+         <message id="CONNECT1B-2"><![CDATA[Se ainda não está ligado à Internet, ligue-se agora.  Depois de estar ligado, prima o botão <b>Seguinte</b> para continuar.]]></message>
+         <message id="CONNECT1B-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>O que devo fazer caso não tenha uma ligação à Internet?</u></a></font>]]></message>
+         <message id="CONNECT1C-1"><![CDATA[<b>A Contactar a EA... </b>]]></message>
+         <message id="CONNECT1C-2"><![CDATA[<b>Seja paciente – isto pode demorar um pouco.</b>]]></message>
+         <message id="CONNECTED1A-1"><![CDATA[<b>Contacto estabelecido.</b>]]></message>
+         <message id="CONNECTED1A-2"><![CDATA[<b>A Iniciar o registo…</b>]]></message>
+         <message id="CONNECTED1B-1"><![CDATA[<b>Não é possível contactar a EA</b>]]></message>
+         <message id="CONNECTED1B-2"><![CDATA[Não é possível contactar o sistema de registo de produtos da EA.  Para poder registar o seu produto, deve estar ligado à Internet.  Se ainda não está ligado à Internet, ligue-se agora.]]></message>
+         <message id="CONNECTED1B-3"><![CDATA[Depois de estar ligado, prima o botão <b>Tentar Novamente</b>.]]></message>
+         <message id="CONNECTED1B-4"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>O que devo fazer caso não consiga ligar após várias tentativas?</u></a></font>]]></message>
+         <message id="CONNECTHOWTO-1"><![CDATA[<b>Para registar o seu produto, deve ter uma ligação à Internet.</b>Para jogar não necessita de registar o seu produto.  No entanto, se deseja registar o seu produto, e não seja possível ligar ao sistema de registo de produtos da EA após várias tentativas, sugerimos o seguinte:]]></message>
+         <message id="CONNECTHOWTO-2"><![CDATA[Verifique se a sua ligação à Internet está a funcionar.]]></message>
+         <message id="CONNECTHOWTO-3"><![CDATA[Contacte o Apoio Técnico da EA.  Para obter o número do Apoio Técnico da EA, consulte o seu manual do jogo.]]></message>
+         <message id="CONNECTHOWTO-4"><![CDATA[Visite <font color="#333399"><a href="http://www.eagamereg.com"><u>www.eagamereg.com</u></a> e preencha o formulário de registo na web.</font>]]></message>
+         <message id="CONNECTING-1"><![CDATA[<b>A Contactar a EA</b>]]></message>
+         <message id="CONNECTING-2"><![CDATA[Estamos a tentar contactar o sistema de registo de produtos da EA.  Seja paciente, isto pode demorar alguns momentos.]]></message>
+         <message id="NOINTERNET-1"><![CDATA[<B>Não tem uma ligação à Internet?  Não é problema!</B>]]></message>
+         <message id="NOINTERNET-2"><![CDATA[Pode jogar {client:game-name} sem registar o jogo.  Caso alguma vez precise de contactar o Apoio Técnico, será necessário registar o seu jogo pelo telefone.  Para obter o número do Apoio Técnico, consulte o seu manual do jogo.<BR>]]></message>
+         <message id="NOINTERNET-3"><![CDATA[Divirta-se com o seu jogo!]]></message>
+         <message id="NOINTERNET-4"><![CDATA[Electronic Arts]]></message>
+         <message id="OFFLINEEXITCONFIRM-1"><![CDATA[<b>Tem a certeza de que deseja sair?</b>]]></message>
+         <message id="REGISTERLATER-1"><![CDATA[<b>Ao não registar o seu produto, estará a perder alguns fantásticos benefícios, incluindo:</b><BR>]]></message>
+         <message id="REGISTERLATER-2"><![CDATA[&nbsp;]]></message>
+         <message id="REGISTERLATER-3"><![CDATA[<li>Suporte técnico completo</li>]]></message>
+         <message id="REGISTERLATER-4"><![CDATA[<li>As notícias dos bastidores dos seus jogos favoritos da EA</li>]]></message>
+         <message id="REGISTERLATER-5"><![CDATA[<b>Um código de batota gratuito ou uma dica para o seu jogo!</b> <BR><BR>]]></message>
+         <message id="REGISTERLATER-6"><![CDATA[<BR><b>Registe-se em breve e goze o seu jogo.</b>]]></message>
+         <message id="SIGNIN1B-1"><![CDATA[<b>Esta versão do jogo {client:game-name} não pode ser registada.</b> Para jogar, não é necessário registar este produto.  Pode visitar <font color="#333399"><a href="http://www.ea.com"><u>www.ea.com</u></a></font> para obter as mais recentes informações acerca dos produtos da EA e subscrever a newsletter da EA.<BR>]]></message>
+         <message id="START1A-1"><![CDATA[<b>Obtenha um código de batota ou uma dica para o jogo e muito mais!</b> <BR><BR>]]></message>
+         <message id="START1A-2"><![CDATA[<b>Registe o jogo {client:game-name} agora e receba estes fantásticos benefícios!</b><BR>]]></message>
+         <message id="START1A-3"><![CDATA[<b>Um código de batota gratuito ou uma dica para o seu jogo!</b> <BR><BR>]]></message>
+         <message id="START1A-4"><![CDATA[<li>As notícias dos bastidores dos seus jogos favoritos da EA</li>]]></message>
+         <message id="START1A-5"><![CDATA[<li>Suporte técnico completo</li>]]></message>
+         <message id="START1A-6"><![CDATA[&nbsp;]]></message>
+         <message id="START1B-1"><![CDATA[<b>Já registou o jogo {client:game-name}.</b>]]></message>
+         <message id="START1B-2"><![CDATA[Deseja rever as suas informações de registo ou responder a mais algumas perguntas para receber ofertas especiais de jogos da EA?]]></message>
+         <message id="TITLE-PREFIX"><![CDATA[default]]></message>
+         <message id="TITLE-SUFFIX"><![CDATA[default]]></message>
+      </message-dictionary>
+   </get-registration-dictionary-reply>
+</subs-interface-reply>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<book name="DirectX" >
+  <item name="Check Direct3D" url="DirectX/DX_Check_Direct3D.htm" />
+  <item name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+  <item name="DirectX Install Issues" url="DirectX/DX_DirectX_Install_Issues.htm" />
+  <item name="DirectX Requirements" url="DirectX/DX_DirectX_Requirements.htm" />
+  <item name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+</book>
+<book name="Install" >
+  <book name="Issues After Install" >
+    <item name="Issues After Install" url="Install/Issues_After_Install/INST_Issues_After_Install.htm" />
+    <item name="Windows Looks Different" url="Install/Issues_After_Install/INST_Windows_Looks_Different.htm" />
+  </book>
+  <book name="Media Issues" >
+    <item name="Can't Read A File" url="Install/Media_Issues/INST_Can_t_Read_A_File.htm" />
+    <item name="Insert CD Error" url="Install/Media_Issues/INST_Insert_CD_Error.htm" />
+    <item name="Media Issues" url="Install/Media_Issues/INST_Media_Issues.htm" />
+    <item name="Selecting a Hard Drive" url="Install/Media_Issues/INST_Selecting_a_Hard_Drive.htm" />
+  </book>
+  <book name="Requirements Issues" >
+    <item name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+    <item name="Out Of Disk Space" url="Install/Requirements_Issues/INST_Out_Of_Disk_Space.htm" />
+    <item name="Requirements Issues" url="Install/Requirements_Issues/Requirements_Issues.htm" />
+  </book>
+  <item name="Installation Troubleshooting" url="Install/INST_Installation_Troubleshooting.htm" />
+  <item name="Pre-Install Preparation" url="Install/INST_Pre-Install_Preparation.htm" />
+</book>
+<book name="Online" >
+  <item name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+  <item name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+  <item name="Online Troubles" url="Online/ONLN_Online_Troubles.htm" />
+  <item name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+</book>
+<book name="Playing the Game" >
+  <book name="Lockups" >
+    <item name="Frozen On Screen" url="Playing_the_Game/Lockups/PLYG_Frozen_On_Screen.htm" />
+    <item name="Lockups" url="Playing_the_Game/Lockups/PLYG_Lockups.htm" />
+    <item name="Not Responding To Input" url="Playing_the_Game/Lockups/PLYG_Not_Responding_To_Input.htm" />
+    <item name="Repeating Sound" url="Playing_the_Game/Lockups/PLYG_Repeating_Sound.htm" />
+  </book>
+  <item name="Audio Issues" url="Playing_the_Game/PLYG_Audio_Issues.htm" />
+  <item name="Controller Does Not Work" url="Playing_the_Game/PLYG_Controller_Does_Not_Work.htm" />
+  <item name="Crashing" url="Playing_the_Game/PLYG_Crashing.htm" />
+  <item name="Errors While Playing" url="Playing_the_Game/PLYG_Errors_While_Playing.htm" />
+  <item name="Issues While Playing" url="Playing_the_Game/PLYG_Issues_While_Playing.htm" />
+  <item name="Poor Performance" url="Playing_the_Game/PLYG_Poor_Performance.htm" />
+  <item name="Video Issues" url="Playing_the_Game/PLYG_Video_Issues.htm" />
+</book>
+<book name="Standard Items" >
+  <item name="Change Screen Resolution" url="Standard_Items/STND_Change_Screen_Resolution.htm" />
+  <item name="Changing Drive Letters" url="Standard_Items/STND_Changing_Drive_Letters.htm" />
+  <item name="Check Minimum Requirements" url="Standard_Items/Check_Minimum_Requirements.htm" />
+  <item name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+  <item name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+  <item name="Empty Temporary Internet Files" url="Standard_Items/STND_Empty_Temporary_Internet_Files.htm" />
+  <item name="Lower Sound Acceleration" url="Standard_Items/STND_Lower_Sound_Acceleration.htm" />
+  <item name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+  <item name="Virtual Memory" url="Standard_Items/STND_Virtual_Memory.htm" />
+</book>
+<book name="Starting the Game" >
+  <book name="Crashes" >
+    <item name="Copy Protection Crash" url="Starting_the_Game/Crashes/STRTG_CP_Crash.htm" />
+    <item name="Crash After Full Screen" url="Starting_the_Game/Crashes/STRTG_Crash_After_Full_Screen.htm" />
+    <item name="Crashing Back To Desktop" url="Starting_the_Game/Crashes/STRTG_Crashing_Back_To_Desktop.htm" />
+  </book>
+  <book name="Lockups" >
+    <item name="Blank Screen Lockup" url="Starting_the_Game/Lockups/STRTG_Blank_Screen_Lockup.htm" />
+    <item name="Copy Protection Lockup" url="Starting_the_Game/Lockups/STRTG_CP_Lockup.htm" />
+    <item name="Lockups Starting the Game" url="Starting_the_Game/Lockups/STRTG_Lockups.htm" />
+    <item name="Repeating Sound" url="Starting_the_Game/Lockups/STRTG_Repeating_Sound.htm" />
+  </book>
+  <item name="Errors Starting The Game" url="Starting_the_Game/STRTG_Errors.htm" />
+  <item name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+</book>
+<item name="Welcome" url="Welcome.htm" />
+
+</tocdata>

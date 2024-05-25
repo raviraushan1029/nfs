@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subs-interface-reply SYSTEM "http://account.ea.com/subsxml/subs-interface.dtd">
+<subs-interface-reply version="2.0">
+   <status>0</status>
+   <message>Success</message>
+   <get-registration-dictionary-reply>
+      <message-dictionary>
+         <message id="00GAMENAME-1"><![CDATA[Need for Speed™ Most Wanted]]></message>
+         <message id="BUTTONSANDLABELS-1"><![CDATA[REGISTRERING]]></message>
+         <message id="BUTTONSANDLABELS-10"><![CDATA[OK]]></message>
+         <message id="BUTTONSANDLABELS-11"><![CDATA[AFBRYD]]></message>
+         <message id="BUTTONSANDLABELS-12"><![CDATA[FORSØG IGEN]]></message>
+         <message id="BUTTONSANDLABELS-13"><![CDATA[LUK]]></message>
+         <message id="BUTTONSANDLABELS-14"><![CDATA[AFSLUT]]></message>
+         <message id="BUTTONSANDLABELS-15"><![CDATA[AFSLUT SENERE]]></message>
+         <message id="BUTTONSANDLABELS-2"><![CDATA[REGISTRER SENERE]]></message>
+         <message id="BUTTONSANDLABELS-3"><![CDATA[REGISTRER NU]]></message>
+         <message id="BUTTONSANDLABELS-4"><![CDATA[JA]]></message>
+         <message id="BUTTONSANDLABELS-5"><![CDATA[NEJ]]></message>
+         <message id="BUTTONSANDLABELS-6"><![CDATA[FORRIGE]]></message>
+         <message id="BUTTONSANDLABELS-7"><![CDATA[NÆSTE]]></message>
+         <message id="BUTTONSANDLABELS-8"><![CDATA[TILBAGE]]></message>
+         <message id="BUTTONSANDLABELS-9"><![CDATA[FÆRDIG]]></message>
+         <message id="CONNECT1A-1"><![CDATA[<B>For at registrere dit spil, skal du være tilsluttet til Internet.</b>]]></message>
+         <message id="CONNECT1A-2"><![CDATA[Hvis ikke du allerede er tilsluttet til Internet, så gør det venligst nu.  Når du er tilsluttet, skal du trykke på <b>Næste</b>-knappen for at fortsætte.<BR><BR>]]></message>
+         <message id="CONNECT1A-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Hvad kan jeg gøre hvis jeg ikke har en Internet-forbindelse?</u></a></font>]]></message>
+         <message id="CONNECT1B-1"><![CDATA[<b>For at verificere din registrering eller se om der er spændende tilbud, skal du være tilsluttet til Internet.</b>]]></message>
+         <message id="CONNECT1B-2"><![CDATA[Hvis ikke du allerede er tilsluttet til Internet, så gør det venligst nu.  Når du er tilsluttet, skal du trykke på <b>Næste</b> knappen for at fortsætte.]]></message>
+         <message id="CONNECT1B-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Hvad kan jeg gøre hvis jeg ikke har en Internet-forbindelse?</u></a></font>]]></message>
+         <message id="CONNECT1C-1"><![CDATA[<b>Kontakter nu EA... </b>]]></message>
+         <message id="CONNECT1C-2"><![CDATA[<b>Vi beder om tålmodighed - dette kan tage et lille stykke tid.</b>]]></message>
+         <message id="CONNECTED1A-1"><![CDATA[<b>Kontakt etableret.</b>]]></message>
+         <message id="CONNECTED1A-2"><![CDATA[<b>Starter registrering…</b>]]></message>
+         <message id="CONNECTED1B-1"><![CDATA[<b>Kunne ikke kontakte EA</b>]]></message>
+         <message id="CONNECTED1B-2"><![CDATA[Vi er ikke i stand til at kontakte EA's produktregistreringssystem. For at kunne registrere dit produkt skal du være tilsluttet til Internet.  Hvis du ikke allerede er tilsluttet til Internet, beder vi dig gøre dette nu.]]></message>
+         <message id="CONNECTED1B-3"><![CDATA[Når du er tilsluttet, skal du trykke på <b>Forsøg igen</B>-knappen.]]></message>
+         <message id="CONNECTED1B-4"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Hvad kan jeg gøre hvis jeg efter adskillige forsøg ikke kan tilslutte?</u></a></font>]]></message>
+         <message id="CONNECTHOWTO-1"><![CDATA[<b>For at registrere produktet skal du have en Internet-tilslutning.</b>Du behøver ikke at registrere produktet for at spille.  Hvis du dog ønsker at registrere dit produkt, og du efter adskillige forsøg ikke er i stand til at tilslutte til EA's produktregistreringssystem, foreslår vi følgende:]]></message>
+         <message id="CONNECTHOWTO-2"><![CDATA[Verificér at din Internet-forbindelse fungerer.]]></message>
+         <message id="CONNECTHOWTO-3"><![CDATA[Kontakt EA Teknisk Support.  Vi henviser til manualen til spillet for kontaktoplysninger til EA Teknisk Support.]]></message>
+         <message id="CONNECTHOWTO-4"><![CDATA[Gå til <font color="#333399"><a href="http://www.eagamereg.com"><u>www.eagamereg.com</u></a> og udfyld web-registreringsskemaet.</font>]]></message>
+         <message id="CONNECTING-1"><![CDATA[<b>Kontakter EA</b>]]></message>
+         <message id="CONNECTING-2"><![CDATA[Vi forsøger at kontakte EA's produktregistreringssystem. Dette kan tage et lille stykke tid.]]></message>
+         <message id="NOINTERNET-1"><![CDATA[<B>Har du ikke en Internet-forbindelse?  Intet problem!</B>]]></message>
+         <message id="NOINTERNET-2"><![CDATA[Du kan spille {client:game-name} uden at registrere spillet.  Hvis du nogen sinde får brug for at ringe til Teknisk Support, vil du blive bedt om at registrere spillet over telefonen.  Se venligst i manualen til spillet for nummeret til Teknisk Support.<BR>]]></message>
+         <message id="NOINTERNET-3"><![CDATA[God fornøjelse med spillet!]]></message>
+         <message id="NOINTERNET-4"><![CDATA[Electronic Arts]]></message>
+         <message id="OFFLINEEXITCONFIRM-1"><![CDATA[<b>Er du sikker på, at du vil afslutte?</b>]]></message>
+         <message id="REGISTERLATER-1"><![CDATA[<b>Når du ikke registrerer dit produkt går du glip af nogle af de super fordele, herunder:</b><BR>]]></message>
+         <message id="REGISTERLATER-2"><![CDATA[&nbsp;]]></message>
+         <message id="REGISTERLATER-3"><![CDATA[&nbsp;]]></message>
+         <message id="REGISTERLATER-4"><![CDATA[<li>Insideroplysninger om dine yndlings EA-spil</li>]]></message>
+         <message id="REGISTERLATER-5"><![CDATA[<li>En gratis snydekode eller spiltip til dit spil!</li>]]></message>
+         <message id="REGISTERLATER-6"><![CDATA[<BR><b>Registrer snart og god fornøjelse med spillet.</b>]]></message>
+         <message id="SIGNIN1B-1"><![CDATA[<b>Denne version af {client:game-name} kan ikke registreres.</b> Du behøver ikke at registrere produktet for at spille. Du kan gå til <font color="#333399"><a href="http://www.ea.com"><u>www.ea.com</u></a></font> for at få de seneste oplysninger om EA's produkter og skrive dig op til EA's nyhedsbrev.<BR>]]></message>
+         <message id="START1A-1"><![CDATA[<b>Få en snydekode eller et spiltip til dit spil og meget mere!</b> <BR><BR>]]></message>
+         <message id="START1A-2"><![CDATA[<b>Registrér {client:game-name} nu og få disse specielle fordele!</b><BR>]]></message>
+         <message id="START1A-3"><![CDATA[<li>En gratis snydekode eller spiltip til dit spil!</li>]]></message>
+         <message id="START1A-4"><![CDATA[<li>Insideroplysninger om dine yndlings EA-spil</li>]]></message>
+         <message id="START1A-5"><![CDATA[&nbsp;]]></message>
+         <message id="START1A-6"><![CDATA[&nbsp;]]></message>
+         <message id="START1B-1"><![CDATA[<b>Du har allerede registreret {client:game-name}.</b>]]></message>
+         <message id="START1B-2"><![CDATA[Vil du gennemgå dine registreringsoplysninger eller svare på yderligere nogle spørgsmål for at få specielle tilbud på EA-spil?]]></message>
+         <message id="TITLE-PREFIX"><![CDATA[default]]></message>
+         <message id="TITLE-SUFFIX"><![CDATA[default]]></message>
+      </message-dictionary>
+   </get-registration-dictionary-reply>
+</subs-interface-reply>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Tervetuloa" url="welcome.htm" />
+<book name="Pelin Asentaminen" url="Installing_the_game.htm" >
+  <item name="CD/DVD (Problem)" url="cd_dvd_issues.htm" />
+  <item name="Tietokone Rysähtäen" url="crashes.htm" />
+</book>
+<book name="Pelin Aloittaminen" url="Starting_the_game.htm" >
+  <item name="Peli ei käynnisty" url="my_game_fails_to_start.htm" />
+  <item name="CD/DVD (Problem)" url="cd_dvd_issues2.htm" />
+  <item name="Automaattinen Käynnistys (Autorun) " url="autorun.htm" />
+  <item name="Tietokone Rysähtäen" url="crash_issues2.htm" />
+  <item name="Erehdys (Error Message) " url="error_message.htm" />
+</book>
+<book name="Peliongelmat" url="Gameplay_Issues.htm" >
+  <item name="Sininen Ruutu " url="blue_screen_.htm" />
+  <item name="Tietokone Rysähtäen" url="crash_issues3.htm" />
+  <item name="Graafinen Korruptio" url="Graphic_corruption.htm" />
+</book>
+<book name="Ongelmienratkaisu" >
+  <item name="Taustaohjelmien sulkeminen " url="Ending_background_tasks.htm" />
+  <item name="Näytönohjaimen ajurin päivittäminen  " url="Updating_your_video_driver.htm" />
+  <item name="Äänikortin ajurin päivittäminen" url="Updating_your_sound_driver.htm" />
+  <item name="Äänikorttisi (Sound Card)" url="Sound_card.htm" />
+  <item name="Näytön (Monitor)" url="Monitor.htm" />
+  <item name="Kiintolevytila" url="Hard_Drive_space.htm" />
+  <item name="Näyttöasetusten tarkistaminen" url="display_settings.htm" />
+  <item name="Asennuksen käynnistäminen" url="Starting_the_installation_manually.htm" />
+  <item name="Näytönohjaimen  (Video Card)" url="Video_Card.htm" />
+  <item name="Vähimmäisvaatimukset" url="Minimum_requirements.htm" />
+  <item name="DirectX" url="directx.htm" />
+  <item name="CD/DVD-ongelmat" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Pelin käynnistäminen" url="Manually_starting_the_game.htm" />
+  <item name="Levyn puhdistaminen" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Väliaikaisten tiedostojen poistaminen" url="Emptying_Temporary_Files.htm" />
+</book>
+<item name="Takuu" url="Warranty.htm" />
+<remoteitem name="Tuki" url="http://europe.ea.com" target="_blank" />
+
+</tocdata>

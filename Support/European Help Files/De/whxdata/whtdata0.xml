@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Willkommen" url="Welcome.htm" />
+<book name="Installieren Des Spiels" url="Installing_the_game.htm" >
+  <item name="CD/DVD (Probleme)" url="cd_dvd_issues.htm" />
+  <item name="Abstürze" url="crashes.htm" />
+</book>
+<book name="Starten Des Spiels" url="starting_the_game.htm" >
+  <item name="Das Spiel wird nicht gestartet" url="my_game_fails_to_start.htm" />
+  <item name="CD/DVD (Probleme)" url="cd_dvd_issues2.htm" />
+  <item name="AutoRun" url="autorun.htm" />
+  <item name="Abstürze" url="crash_issues2.htm" />
+  <item name="Fehlermeldung" url="error_message.htm" />
+</book>
+<book name="Probleme Beim Spielen" url="gameplay_issues.htm" >
+  <item name="BlueScreen (Blauer Bildschirm) " url="blue_screen_.htm" />
+  <item name="Abstürze" url="crash_issues3.htm" />
+  <item name="Grafikfehler" url="Graphic_corruption.htm" />
+</book>
+<book name=" Problembehandlung" >
+  <item name="Beenden von Hintergrundprogrammen" url="Ending_background_tasks.htm" />
+  <item name="Aktualisieren des Grafiktreibers" url="Updating_your_video_driver.htm" />
+  <item name="Aktualisieren des Soundtreibers " url="Updating_your_sound_driver.htm" />
+  <item name="Soundkarte" url="Sound_card.htm" />
+  <item name="Monitor" url="Monitor.htm" />
+  <item name="Festplattenspeicher" url="Hard_Drive_space.htm" />
+  <item name="Überprüfen der Anzeigeeinstellungen" url="display_settings.htm" />
+  <item name="Manuelles Starten der Installation" url="Starting_the_installation_manually.htm" />
+  <item name="Grafikkarte" url="Video_Card.htm" />
+  <item name="Mindestanforderungen" url="Minimum_requirements.htm" />
+  <item name="DirectX" url="directx.htm" />
+  <item name="CD/DVD-Problembehandlung" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Manuelles Starten des Spiels" url="Manually_starting_the_game.htm" />
+  <item name="Reinigen der CD/DVD" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Löschen temporärer Dateien" url="Emptying_Temporary_Files.htm" />
+</book>
+<item name="Gewährleistung" url="warranty.htm" />
+<remoteitem name="Support" url="http://www.europe.ea.com" target="_blank" />
+
+</tocdata>

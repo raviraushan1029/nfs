@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Bem-vindo" url="Welcome.htm" />
+<book name="Instalando O Jogo" url="Installing_the_game.htm" >
+  <item name="Problemas de CD/DVD" url="cd_dvd_issues.htm" />
+  <item name="Trava (Problemas)" url="crashes.htm" />
+</book>
+<book name="Iniciando O Jogo" url="Starting_the_game.htm" >
+  <item name="Meu jogo não inicia" url="my_game_fails_to_start.htm" />
+  <item name="Problemas de CD/DVD" url="cd_dvd_issues2.htm" />
+  <item name="Reprodução Automática (Autorun) " url="autorun.htm" />
+  <item name="Trava (Problemas)" url="crash_issues2.htm" />
+  <item name="Mensagem De Erro " url="error_message.htm" />
+</book>
+<book name="Problemas De Jogabilidade" url="Gameplay_Issues.htm" >
+  <item name="Tela Azul " url="blue_screen_.htm" />
+  <item name="Trava (Problemas)" url="crash_issues3.htm" />
+  <item name="Imagem Corrompida" url="Graphic_corruption.htm" />
+</book>
+<book name="Passos Para Solucionar Problemas" >
+  <item name="Editando Tarefas em Segundo Plano" url="Ending_background_tasks.htm" />
+  <item name="Atualizando o Seu Driver de Vídeo" url="Updating_your_video_driver.htm" />
+  <item name="Atualizando o Seu Driver de Som" url="Updating_your_sound_driver.htm" />
+  <item name="Placa de Som" url="Sound_card.htm" />
+  <item name="Configurando o Seu Vídeo" url="Monitor.htm" />
+  <item name="Espaço no Disco Rígido" url="Hard_Drive_space.htm" />
+  <item name="Configurações de Vídeo" url="display_settings.htm" />
+  <item name="Iniciando a Instalação Manualmente" url="Starting_the_installation_manually.htm" />
+  <item name="Placa de Vídeo" url="Video_Card.htm" />
+  <item name="Requisitos Mínimos " url="Minimum_requirements.htm" />
+  <item name="DirectX" url="directx.htm" />
+  <item name="Solucionando Problemas de CD/DVD" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Iniciando Manualmente o Jogo" url="Manually_starting_the_game.htm" />
+  <item name="Limpando seu CD/DVD" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Esvaziando Arquivos Temporários" url="Emptying_Temporary_Files.htm" />
+</book>
+<remoteitem name="Suporte" url="http://europe.ea.com" target="_blank" />
+
+</tocdata>

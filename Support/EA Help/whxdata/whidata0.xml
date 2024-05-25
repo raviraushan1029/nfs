@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<indexdata>
+<key name="2000/XP" >
+  <topic name="Changing Drive Letters" url="Standard_Items/STND_Changing_Drive_Letters.htm" />
+</key>
+<key name="800x600" >
+  <topic name="Change Screen Resolution" url="Standard_Items/STND_Change_Screen_Resolution.htm" />
+</key>
+<key name="95/98/ME" >
+  <topic name="Changing Drive Letters" url="Standard_Items/STND_Changing_Drive_Letters.htm" />
+</key>
+<key name="Add/Remove" >
+  <topic name="Virtual Memory" url="Standard_Items/STND_Virtual_Memory.htm" />
+</key>
+<key name="Antivirus" >
+  <topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+</key>
+<key name="API" >
+  <topic name="Windows Looks Different" url="Install/Issues_After_Install/INST_Windows_Looks_Different.htm" />
+</key>
+<key name="Blank Screen Lockup" >
+  <topic name="Blank Screen Lockup" url="Starting_the_Game/Lockups/STRTG_Blank_Screen_Lockup.htm" />
+</key>
+<key name="Cache" >
+  <topic name="DirectX Install Issues" url="DirectX/DX_DirectX_Install_Issues.htm" />
+</key>
+<key name="CDROM" >
+  <topic name="Can't Read A File" url="Install/Media_Issues/INST_Can_t_Read_A_File.htm" />
+  <topic name="Changing Drive Letters" url="Standard_Items/STND_Changing_Drive_Letters.htm" />
+  <topic name="Insert CD Error" url="Install/Media_Issues/INST_Insert_CD_Error.htm" />
+  <topic name="Media Issues" url="Install/Media_Issues/INST_Media_Issues.htm" />
+  <topic name="Out Of Disk Space" url="Install/Requirements_Issues/INST_Out_Of_Disk_Space.htm" />
+  <topic name="SafeDisk Crash" url="Starting_the_Game/Crashes/STRTG_CP_Crash.htm" />
+  <topic name="SafeDisk Lockup" url="Starting_the_Game/Lockups/STRTG_CP_Lockup.htm" />
+</key>
+<key name="CDs" >
+  <topic name="Media Issues" url="Install/Media_Issues/INST_Media_Issues.htm" />
+</key>
+<key name="Check Direct3D" >
+  <topic name="Check Direct3D" url="DirectX/DX_Check_Direct3D.htm" />
+</key>
+<key name="Close Background Tasks" >
+  <topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+</key>
+<key name="Computer" >
+  <topic name="Audio Issues" url="Playing_the_Game/PLYG_Audio_Issues.htm" />
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Repeating Sound" url="Playing_the_Game/Lockups/PLYG_Repeating_Sound.htm" />
+  <topic name="Video Issues" url="Playing_the_Game/PLYG_Video_Issues.htm" />
+</key>
+<key name="Computer RAM" >
+  <topic name="Selecting a Hard Drive" url="Install/Media_Issues/INST_Selecting_a_Hard_Drive.htm" />
+</key>
+<key name="Copy Protection" >
+  <topic name="Copy Protection Crash" url="Starting_the_Game/Crashes/STRTG_CP_Crash.htm" />
+  <topic name="Copy Protection Lockup" url="Starting_the_Game/Lockups/STRTG_CP_Lockup.htm" />
+</key>
+<key name="Crash After Full Screen" >
+  <topic name="Crash After Full Screen" url="Starting_the_Game/Crashes/STRTG_Crash_After_Full_Screen.htm" />
+</key>
+<key name="CTRL+ALT+DEL" >
+  <topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+</key>
+<key name="Defrag" >
+  <topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+</key>
+<key name="Defragmenter" >
+  <topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+</key>
+<key name="Desktop" >
+  <topic name="Crashing Back To Desktop" url="Starting_the_Game/Crashes/STRTG_Crashing_Back_To_Desktop.htm" />
+</key>
+<key name="Direct3D" >
+  <topic name="Check Direct3D" url="DirectX/DX_Check_Direct3D.htm" />
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+</key>
+<key name="DirectDraw" >
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+</key>
+<key name="DirectInput" >
+  <topic name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+</key>
+<key name="DirectSound" >
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+</key>
+<key name="DirectX" >
+  <topic name="Audio Issues" url="Playing_the_Game/PLYG_Audio_Issues.htm" />
+  <topic name="Change Screen Resolution" url="Standard_Items/STND_Change_Screen_Resolution.htm" />
+  <topic name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+  <topic name="DirectX Install Issues" url="DirectX/DX_DirectX_Install_Issues.htm" />
+  <topic name="DirectX Requirements" url="DirectX/DX_DirectX_Requirements.htm" />
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Lower Sound Acceleration" url="Standard_Items/STND_Lower_Sound_Acceleration.htm" />
+  <topic name="Out Of Disk Space" url="Install/Requirements_Issues/INST_Out_Of_Disk_Space.htm" />
+  <topic name="Repeating Sound" url="Playing_the_Game/Lockups/PLYG_Repeating_Sound.htm" />
+  <topic name="Selecting a Hard Drive" url="Install/Media_Issues/INST_Selecting_a_Hard_Drive.htm" />
+  <topic name="Video Issues" url="Playing_the_Game/PLYG_Video_Issues.htm" />
+  <topic name="Windows Looks Different" url="Install/Issues_After_Install/INST_Windows_Looks_Different.htm" />
+</key>
+<key name="DirectX Diagnostic" >
+  <topic name="Audio Issues" url="Playing_the_Game/PLYG_Audio_Issues.htm" />
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Repeating Sound" url="Playing_the_Game/Lockups/PLYG_Repeating_Sound.htm" />
+  <topic name="Video Issues" url="Playing_the_Game/PLYG_Video_Issues.htm" />
+</key>
+<key name="DirectX Requirements" >
+  <topic name="DirectX Requirements" url="DirectX/DX_DirectX_Requirements.htm" />
+</key>
+<key name="Drive" >
+  <topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+</key>
+<key name="Drive Letters" >
+  <topic name="Changing Drive Letters" url="Standard_Items/STND_Changing_Drive_Letters.htm" />
+</key>
+<key name="Drivers" >
+  <topic name="Lockups" url="Playing_the_Game/Lockups/PLYG_Lockups.htm" />
+  <topic name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+</key>
+<key name="DVD Roms" >
+  <topic name="Media Issues" url="Install/Media_Issues/INST_Media_Issues.htm" />
+</key>
+<key name="DXDIAG" >
+  <topic name="Check Direct3D" url="DirectX/DX_Check_Direct3D.htm" />
+  <topic name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+  <topic name="Check Minimum Requirements" url="Standard_Items/Check_Minimum_Requirements.htm" />
+  <topic name="Lower Sound Acceleration" url="Standard_Items/STND_Lower_Sound_Acceleration.htm" />
+  <topic name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+</key>
+<key name="DXDIAG window" >
+  <topic name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+</key>
+<key name="DXDIAG.EXE" >
+  <topic name="Audio Issues" url="Playing_the_Game/PLYG_Audio_Issues.htm" />
+  <topic name="Check Direct3D" url="DirectX/DX_Check_Direct3D.htm" />
+  <topic name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Repeating Sound" url="Playing_the_Game/Lockups/PLYG_Repeating_Sound.htm" />
+  <topic name="Video Issues" url="Playing_the_Game/PLYG_Video_Issues.htm" />
+</key>
+<key name="EA" >
+  <topic name="Audio Issues" url="Playing_the_Game/PLYG_Audio_Issues.htm" />
+  <topic name="Blank Screen Lockup" url="Starting_the_Game/Lockups/STRTG_Blank_Screen_Lockup.htm" />
+  <topic name="Can't Read A File" url="Install/Media_Issues/INST_Can_t_Read_A_File.htm" />
+  <topic name="Change Screen Resolution" url="Standard_Items/STND_Change_Screen_Resolution.htm" />
+  <topic name="Check Minimum Requirements" url="Standard_Items/Check_Minimum_Requirements.htm" />
+  <topic name="Crash After Full Screen" url="Starting_the_Game/Crashes/STRTG_Crash_After_Full_Screen.htm" />
+  <topic name="Crashing" url="Playing_the_Game/PLYG_Crashing.htm" />
+  <topic name="Crashing Back To Desktop" url="Starting_the_Game/Crashes/STRTG_Crashing_Back_To_Desktop.htm" />
+  <topic name="DirectX Install Issues" url="DirectX/DX_DirectX_Install_Issues.htm" />
+  <topic name="DirectX Requirements" url="DirectX/DX_DirectX_Requirements.htm" />
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+  <topic name="Errors Starting The Game" url="Starting_the_Game/STRTG_Errors.htm" />
+  <topic name="Errors While Playing" url="Playing_the_Game/PLYG_Errors_While_Playing.htm" />
+  <topic name="Installation Troubleshooting" url="Install/INST_Installation_Troubleshooting.htm" />
+  <topic name="Issues After Install" url="Install/Issues_After_Install/INST_Issues_After_Install.htm" />
+  <topic name="Issues While Playing" url="Playing_the_Game/PLYG_Issues_While_Playing.htm" />
+  <topic name="Lockups" url="Starting_the_Game/Lockups/STRTG_Lockups.htm" />
+  <topic name="Lower Sound Acceleration" url="Standard_Items/STND_Lower_Sound_Acceleration.htm" />
+  <topic name="Media Issues" url="Install/Media_Issues/INST_Media_Issues.htm" />
+  <topic name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+  <topic name="Not Responding To Input" url="Playing_the_Game/Lockups/PLYG_Not_Responding_To_Input.htm" />
+  <topic name="Online" url="Online/ONLN_Online_Troubles.htm" />
+  <topic name="Out Of Disk Space" url="Install/Requirements_Issues/INST_Out_Of_Disk_Space.htm" />
+  <topic name="Requirements Issues" url="Install/Requirements_Issues/Requirements_Issues.htm" />
+  <topic name="Selecting a Hard Drive" url="Install/Media_Issues/INST_Selecting_a_Hard_Drive.htm" />
+  <topic name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+  <topic name="Video Issues" url="Playing_the_Game/PLYG_Video_Issues.htm" />
+  <topic name="Virtual Memory" url="Standard_Items/STND_Virtual_Memory.htm" />
+  <topic name="Welcome" url="Welcome.htm" />
+  <topic name="Windows Looks Different" url="Install/Issues_After_Install/INST_Windows_Looks_Different.htm" />
+</key>
+<key name="Errors" >
+  <topic name="Errors Starting The Game" url="Starting_the_Game/STRTG_Errors.htm" />
+  <topic name="Errors While Playing" url="Playing_the_Game/PLYG_Errors_While_Playing.htm" />
+</key>
+<key name="Explorer.exe" >
+  <topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+</key>
+<key name="File" >
+  <topic name="Can't Read A File" url="Install/Media_Issues/INST_Can_t_Read_A_File.htm" />
+  <key name="Can't Read" >
+    <topic name="Can't Read A File" url="Install/Media_Issues/INST_Can_t_Read_A_File.htm" />
+  </key>
+</key>
+<key name="Fragmented" >
+  <topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+  <key name="prevent" >
+    <topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+  </key>
+</key>
+<key name="Frozen On Screen" >
+  <topic name="Frozen On Screen" url="Playing_the_Game/Lockups/PLYG_Frozen_On_Screen.htm" />
+</key>
+<key name="Game" >
+  <topic name="Errors Starting The Game" url="Starting_the_Game/STRTG_Errors.htm" />
+  <topic name="Issues While Playing" url="Playing_the_Game/PLYG_Issues_While_Playing.htm" />
+  <topic name="Lockups" url="Starting_the_Game/Lockups/STRTG_Lockups.htm" />
+  <topic name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+</key>
+<key name="Gamepads" >
+  <topic name="Controller Does Not Work" url="Playing_the_Game/PLYG_Controller_Does_Not_Work.htm" />
+</key>
+<key name="Gameplay" >
+  <topic name="Frozen On Screen" url="Playing_the_Game/Lockups/PLYG_Frozen_On_Screen.htm" />
+</key>
+<key name="Hard disk" >
+  <topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+  <topic name="Empty Temporary Internet Files" url="Standard_Items/STND_Empty_Temporary_Internet_Files.htm" />
+</key>
+<key name="Hard disk drive utilities" >
+  <topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+</key>
+<key name="Hard drive space" >
+  <topic name="DirectX Install Issues" url="DirectX/DX_DirectX_Install_Issues.htm" />
+</key>
+<key name="Hyperlinks" >
+  <topic name="Welcome" url="Welcome.htm" />
+</key>
+<key name="Input" >
+  <topic name="Not Responding To Input" url="Playing_the_Game/Lockups/PLYG_Not_Responding_To_Input.htm" />
+</key>
+<key name="Insert CD Error" >
+  <topic name="Insert CD Error" url="Install/Media_Issues/INST_Insert_CD_Error.htm" />
+</key>
+<key name="Install" >
+  <topic name="Can't Read A File" url="Install/Media_Issues/INST_Can_t_Read_A_File.htm" />
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+</key>
+<key name="Installation" >
+  <topic name="Installation Troubleshooting" url="Install/INST_Installation_Troubleshooting.htm" />
+</key>
+<key name="Internet" >
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+  <topic name="Empty Temporary Internet Files" url="Standard_Items/STND_Empty_Temporary_Internet_Files.htm" />
+</key>
+<key name="Internet Options" >
+  <topic name="Empty Temporary Internet Files" url="Standard_Items/STND_Empty_Temporary_Internet_Files.htm" />
+</key>
+<key name="Internet Speed" >
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+</key>
+<key name="ISP" >
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+</key>
+<key name="Issues" >
+  <topic name="Issues While Playing" url="Playing_the_Game/PLYG_Issues_While_Playing.htm" />
+  <topic name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+</key>
+<key name="Issues After Install" >
+  <topic name="Issues After Install" url="Install/Issues_After_Install/INST_Issues_After_Install.htm" />
+</key>
+<key name="Kilobit" >
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+</key>
+<key name="Latest Version" >
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+</key>
+<key name="Lockup" >
+  <topic name="Lockups" url="Starting_the_Game/Lockups/STRTG_Lockups.htm" />
+  <topic name="Repeating Sound" url="Starting_the_Game/Lockups/STRTG_Repeating_Sound.htm" />
+</key>
+<key name="Low ping" >
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+</key>
+<key name="Lower Sound Acceleration" >
+  <topic name="Lower Sound Acceleration" url="Standard_Items/STND_Lower_Sound_Acceleration.htm" />
+</key>
+<key name="Media Issues" >
+  <topic name="Media Issues" url="Install/Media_Issues/INST_Media_Issues.htm" />
+</key>
+<key name="Megs" >
+  <topic name="DirectX Install Issues" url="DirectX/DX_DirectX_Install_Issues.htm" />
+  <topic name="Selecting a Hard Drive" url="Install/Media_Issues/INST_Selecting_a_Hard_Drive.htm" />
+  <topic name="Virtual Memory" url="Standard_Items/STND_Virtual_Memory.htm" />
+</key>
+<key name="Microsoft" >
+  <topic name="Audio Issues" url="Playing_the_Game/PLYG_Audio_Issues.htm" />
+  <topic name="Change Screen Resolution" url="Standard_Items/STND_Change_Screen_Resolution.htm" />
+  <topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+  <topic name="Out Of Disk Space" url="Install/Requirements_Issues/INST_Out_Of_Disk_Space.htm" />
+  <topic name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+  <topic name="Video Issues" url="Playing_the_Game/PLYG_Video_Issues.htm" />
+  <topic name="Windows Looks Different" url="Install/Issues_After_Install/INST_Windows_Looks_Different.htm" />
+</key>
+<key name="Microsoft API" >
+  <topic name="DirectX Requirements" url="DirectX/DX_DirectX_Requirements.htm" />
+</key>
+<key name="Offline" >
+  <topic name="Empty Temporary Internet Files" url="Standard_Items/STND_Empty_Temporary_Internet_Files.htm" />
+</key>
+<key name="Online" >
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+  <topic name="Empty Temporary Internet Files" url="Standard_Items/STND_Empty_Temporary_Internet_Files.htm" />
+  <topic name="Online" url="Online/ONLN_Online_Troubles.htm" />
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+  <topic name="Welcome" url="Welcome.htm" />
+</key>
+<key name="Options" >
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+</key>
+<key name="Ping" >
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+</key>
+<key name="Player" >
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+  <key name="game server" >
+    <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+  </key>
+</key>
+<key name="Poor Performance" >
+  <topic name="Poor Performance" url="Playing_the_Game/PLYG_Poor_Performance.htm" />
+</key>
+<key name="Ports" >
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+  <key name="Firewall" >
+    <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+  </key>
+</key>
+<key name="Pre-Install Preparation" >
+  <topic name="Pre-Install Preparation" url="Install/INST_Pre-Install_Preparation.htm" />
+</key>
+<key name="README.TXT" >
+  <topic name="Welcome" url="Welcome.htm" />
+</key>
+<key name="Requirements Issues" >
+  <topic name="Requirements Issues" url="Install/Requirements_Issues/Requirements_Issues.htm" />
+</key>
+<key name="SafeDisc" >
+  <topic name="Copy Protection Crash" url="Starting_the_Game/Crashes/STRTG_CP_Crash.htm" />
+  <topic name="Copy Protection Lockup" url="Starting_the_Game/Lockups/STRTG_CP_Lockup.htm" />
+</key>
+<key name="Signed Drivers" >
+  <topic name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+  <key name="Check" >
+    <topic name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+  </key>
+</key>
+<key name="Software port" >
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+</key>
+<key name="Sound" >
+  <topic name="Repeating Sound" url="Starting_the_Game/Lockups/STRTG_Repeating_Sound.htm" />
+</key>
+<key name="Sound cards" >
+  <topic name="Check Minimum Requirements" url="Standard_Items/Check_Minimum_Requirements.htm" />
+  <topic name="Lockups" url="Playing_the_Game/Lockups/PLYG_Lockups.htm" />
+  <topic name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+  <topic name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+</key>
+<key name="Subnet" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="Subnet mask" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="Subnetwork mask" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="System" >
+  <topic name="Check Minimum Requirements" url="Standard_Items/Check_Minimum_Requirements.htm" />
+  <topic name="Lockups" url="Playing_the_Game/Lockups/PLYG_Lockups.htm" />
+  <topic name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+  <topic name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+</key>
+<key name="System Slowdown" >
+  <topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+</key>
+<key name="Systray" >
+  <topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+</key>
+<key name="TASKMGR" >
+  <topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+</key>
+<key name="Taskmgr.exe" >
+  <topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+</key>
+<key name="TCP" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="TCP/IP Games" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="TCP/IP Port" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="Test DirectPlay" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="Toolbars" >
+  <topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+</key>
+<key name="Translate data" >
+  <topic name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+</key>
+<key name="Uninstall" >
+  <topic name="Crashing" url="Playing_the_Game/PLYG_Crashing.htm" />
+  <topic name="Frozen On Screen" url="Playing_the_Game/Lockups/PLYG_Frozen_On_Screen.htm" />
+  <topic name="Not Responding To Input" url="Playing_the_Game/Lockups/PLYG_Not_Responding_To_Input.htm" />
+  <topic name="Repeating Sound" url="Playing_the_Game/Lockups/PLYG_Repeating_Sound.htm" />
+</key>
+<key name="Uninstalling" >
+  <topic name="Virtual Memory" url="Standard_Items/STND_Virtual_Memory.htm" />
+</key>
+<key name="Update Drivers" >
+  <topic name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+</key>
+<key name="User Name" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="Video" >
+  <topic name="Check Minimum Requirements" url="Standard_Items/Check_Minimum_Requirements.htm" />
+  <topic name="Lockups" url="Playing_the_Game/Lockups/PLYG_Lockups.htm" />
+  <topic name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+  <topic name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+</key>
+<key name="Virtual memory" >
+  <topic name="DirectX Install Issues" url="DirectX/DX_DirectX_Install_Issues.htm" />
+</key>
+<key name="WHQL" >
+  <topic name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+</key>
+<key name="Windows" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+  <topic name="Check Minimum Requirements" url="Standard_Items/Check_Minimum_Requirements.htm" />
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+  <topic name="Empty Temporary Internet Files" url="Standard_Items/STND_Empty_Temporary_Internet_Files.htm" />
+  <topic name="Lockups" url="Playing_the_Game/Lockups/PLYG_Lockups.htm" />
+  <topic name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+  <topic name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+</key>
+<key name="Windows Control Panel" >
+  <topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+</key>
+<key name="Windows XP" >
+  <topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+</key>
+
+</indexdata>

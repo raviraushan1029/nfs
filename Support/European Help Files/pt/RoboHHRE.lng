@@ -1,0 +1,103 @@
+[GlossaryTab]
+TabCaption=&Glossário
+TermCaption=&Termo
+DefinitionCaption=&Definição para:
+
+[BrowseSequence]
+PreCaption=Anterior
+PreTooltip=Tópico anterior
+NextCaption=Seguinte
+NextTooltip=Tópico seguinte
+BlockTooltip=Seleccionar sequências de procura
+
+[Common]
+Contents=Índice
+Index=Índice alfabético
+Search=Pesquisar
+Glossary=Glossário
+Logo/Author=Gerido por
+Show=Mostrar
+Hide=Ocultar
+SyncToc=SyncToc
+Prev=<<
+Next=>>
+Disabled Prev=<<
+Disabled Next=>>
+Seperate = |
+
+[WebHelp]
+Cancel=Cancelar
+CantOpenURLorFile=Impossível abrir URL ou ficheiro
+CompletingContents=A Concluir o Índice...
+Display=Apresentar
+Term=Termo:
+Definition=Definição:
+Done=Concluído
+Find=Localizar
+IndexInputPrompt=Digite a palavra chave a localizar:
+RelateTopicListPrompt=Faça clique num tópico e depois faça clique em Apresentar.
+LoadingData=A carregar dados, por favor aguarde...
+LoadingContents=A carregar conteúdo, por favor aguarde...
+LoadingContentsData=A carregar, clicar aqui para cancelar...
+LoadingFTS=A Ler os Dados da Procura...
+LoadingIndex=A Carregar o Índice Alfabético...
+LoadingTOCItem=A Carregar o Índice
+Searching=A Procurar...
+FtsInputPrompt=Digite a(s) palavra(s) a procurar:
+TopicsFound=Tópicos Localizados
+BrowserLimitedMessage=O seu browser não suporta molduras. Recomendamos que actualize o seu browser para uma versão que suporta molduras.
+SuggestViewNoFrameMessage=Para visualizar o sistema de Ajuda sem molduras, faça clique nesta
+SuggestViewNoFrameMsg2=hiperligação.
+TopicsNotFound=Não foi encontrado nenhum Tópico.
+CantSearch=Não é possível pesquisar esta frase.
+JS_alert_appletNotLoad = Impossível carregar o applet. Se estiver utilizando uma versão antiga do Netscape, o arquivo prefs.js deve ser editado.
+JS_alert_colorlimitation=WebHelp detectou que o seu monitor está configurado para 16 cores.  Para obter apoio completo de WebHelp, configure seu monitor para utilizar 256 cores ou mais.
+Blank_topic_text=Este tópico foi criado pelo WinHelp Project Conversion Wizard, e é o destino de um tópico inexistente ou de um hyperlink interrompido.
+JS_alert_ProjectLoadingFail=Não foi possível carregar correctamente, clicar em Renovar.
+JS_alert_cantLoadProject=Não é possível carregar o projecto:
+JS_alert_ErrorInLoading=Erro ao carregar o componente de navegação. É favor regenerar o WebHelp.
+IndexBtnText=Ir
+FtsBtnText=Ir
+ToolBarSearchBtnText=Ir
+InTopicSearchBtnText=Ir
+SearchLabel=Pesquisar
+SearchPrompt=- Pesquisar -
+PreTooltip=Tópico anterior
+NextTooltip=Tópico seguinte
+WebSearch=WebSearch
+SyncTocTooltip=Sincronizar índice
+Book=Livro
+Page=Página
+Remote_Page=Página remota
+Show_Navigation_Component=Mostrar a componente de navegação
+Hide_Navigation_Component=Esconder a componente de navegação
+nls_edit_label=Digite a sua pergunta:
+nls_button_go_hint=Avance para a procura
+nls_button_go_text=Ir
+nls_body_instruction=Digite sua pergunta na caixa de texto e a seguir clique GO.
+nls_body_empty=Sinto muito, mas não foi possível encontrarmos uma boa resposta para a sua pergunta.
+IndexSelectTopicTitle=Seleccione um tópico
+IndexSelectTopicLabel=Seleccione um tópico e a seguir clique Exibir
+IndexSelectTopicError=Favor seleccionar um tópico.
+IndexAlphabetBookmarks=ABCDEFGHIJKLMNOPQRSTUVWXYZ
+MergeError1=O sistema de ajuda intercalado
+MergeError2=está a utilizar um idioma diferente do sistema de ajuda principal, o que fará com que a funcionalidade do índice e de procura de texto completo seja desactivada no sistema de ajuda intercalado.
+PoweredBy=Gerido por
+GeneratedBy=Criado por
+Author=Autor
+About=Acerca
+Print=Imprimir
+
+[PrintedDoc]
+ChapterFileNamePrefix=Capítulo_
+TitlePage=Página de título
+TitlePageFileName=Capítulo__Título_Página.doc
+TableOfContents=Índice
+
+CrossReferencePrefix=Consulte
+GlossaryHeadingStyleName=Título do glossário
+GlossaryTermStyleName=Termo do glossário
+GlossaryDefinitionStyleName=Definição do glossário
+TitlePageTitleStyleName=Título da página de título
+TocPageTitleStyleName=Título da página do índice
+TocPageTitleStyleName=Page de titre de table des matières

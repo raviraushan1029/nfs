@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Welkom" url="Welcome.htm" />
+<book name="Het Spel Installeren" url="Installing_the_game.htm" >
+  <item name="Problemen met de CD/DVD" url="cd_dvd_issues.htm" />
+  <item name="Problemen met vastlopers" url="crashes.htm" />
+</book>
+<book name="Het Spel Starten" url="Starting_the_game.htm" >
+  <item name="Het spel wordt niet gestart" url="my_game_fails_to_start.htm" />
+  <item name="Problemen met de CD/DVD" url="cd_dvd_issues2.htm" />
+  <item name="Autorun" url="autorun.htm" />
+  <item name="Problemen met vastlopers" url="crash_issues2.htm" />
+  <item name="Foutmelding " url="error_message.htm" />
+</book>
+<book name="Problemen Tijdens Het Spelen" url="Gameplay_Issues.htm" >
+  <item name="Blauw Scherm" url="blue_screen_.htm" />
+  <item name="Problemen met vastlopers" url="crash_issues3.htm" />
+  <item name="Vervormde Graphics" url="Graphic_corruption.htm" />
+</book>
+<book name="Stappen voor het oplossen van problemen" >
+  <item name="Taken op de achtergrond beëindigen" url="Ending_background_tasks.htm" />
+  <item name="Stuurprogramma van de videokaart bijwerken" url="Updating_your_video_driver.htm" />
+  <item name="Stuurprogramma voor de geluidskaart bijwerken" url="Updating_your_sound_driver.htm" />
+  <item name="Geluidskaart" url="Sound_card.htm" />
+  <item name="Monitor" url="Monitor.htm" />
+  <item name="Vrije ruimte op de vaste schijf" url="Hard_Drive_space.htm" />
+  <item name="Beeldscherminstellingen" url="display_settings.htm" />
+  <item name="Installatie handmatig starten" url="Starting_the_installation_manually.htm" />
+  <item name="Videokaart" url="Video_Card.htm" />
+  <item name="Minimale Systeemeisen" url="Minimum_requirements.htm" />
+  <item name="DirectX" url="directx.htm" />
+  <item name="Problemen met de CD/DVD-rom oplossen" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Spel handmatig starten" url="Manually_starting_the_game.htm" />
+  <item name="CD/DVD-rom schoonmaken" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Tijdelijke bestanden verwijderen" url="Emptying_Temporary_Files.htm" />
+</book>
+<item name="Garantie" url="Warranty.htm" />
+<remoteitem name="Support" url="http://europe.ea.com" target="_blank" />
+
+</tocdata>

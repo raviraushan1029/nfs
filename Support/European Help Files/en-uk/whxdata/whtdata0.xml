@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Welcome" url="Welcome.htm" />
+<book name="Install" url="Installing_the_game.htm" >
+  <item name="CD/DVD Issues" url="CD_DVD_Issues.htm" />
+  <item name="Crash Issues" url="Crashes.htm" />
+</book>
+<book name="Starting the game" url="Starting_the_game.htm" >
+  <item name="My game fails to start" url="My_game_fails_to_start.htm" />
+  <item name="CD/DVD Issues" url="CD_DVD_Issues2.htm" />
+  <item name="Autorun" url="Autorun.htm" />
+  <item name="Crash Issues" url="Crash_Issues2.htm" />
+  <item name="Error message" url="Error_message.htm" />
+</book>
+<book name="Gameplay Issues" url="Gameplay_Issues.htm" >
+  <item name="Blue Screen" url="Blue_Screen_.htm" />
+  <item name="Crash Issues" url="Crash_Issues3.htm" />
+  <item name="Graphic corruption" url="Graphic_corruption.htm" />
+</book>
+<book name="Troubleshooting Steps" >
+  <item name="Ending background tasks" url="Ending_background_tasks.htm" />
+  <item name="Updating your video driver" url="Updating_your_video_driver.htm" />
+  <item name="Updating your sound driver" url="Updating_your_sound_driver.htm" />
+  <item name="Sound card" url="Sound_card.htm" />
+  <item name="Monitor" url="Monitor.htm" />
+  <item name="Hard Drive space" url="Hard_Drive_space.htm" />
+  <item name="Display Settings" url="Display_Settings.htm" />
+  <item name="Starting the installation manually" url="Starting_the_installation_manually.htm" />
+  <item name="Video Card" url="Video_Card.htm" />
+  <item name="Minimum requirements" url="Minimum_requirements.htm" />
+  <item name="DirectX" url="DirectX.htm" />
+  <item name="CD/DVD Troubleshooting" url="CD_DVD_Troubleshooting.htm" />
+  <item name="Manually starting the game" url="Manually_starting_the_game.htm" />
+  <item name="Cleaning your CD/DVD" url="Cleaning_your_CD_DVD.htm" />
+  <item name="Emptying Temporary Files" url="Emptying_Temporary_Files.htm" />
+</book>
+<item name="Warranty" url="Warranty.htm" />
+<remoteitem name="Support" url="http://europe.ea.com" target="_blank" />
+
+</tocdata>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<ftstdata>
+<topic name="Check Direct3D" url="DirectX/DX_Check_Direct3D.htm" />
+<topic name="Check for Signed Drivers" url="DirectX/DX_Check_for_Signed_Drivers.htm" />
+<topic name="DirectX Install Issues" url="DirectX/DX_DirectX_Install_Issues.htm" />
+<topic name="DirectX Requirements" url="DirectX/DX_DirectX_Requirements.htm" />
+<topic name="DirectX Troubleshooting" url="DirectX/DX_DirectX_Troubleshooting.htm" />
+<topic name="Installation Troubleshooting" url="Install/INST_Installation_Troubleshooting.htm" />
+<topic name="Pre-Install Preparation" url="Install/INST_Pre-Install_Preparation.htm" />
+<topic name="Issues After Install" url="Install/Issues_After_Install/INST_Issues_After_Install.htm" />
+<topic name="Windows Looks Different" url="Install/Issues_After_Install/INST_Windows_Looks_Different.htm" />
+<topic name="Can't Read A File" url="Install/Media_Issues/INST_Can_t_Read_A_File.htm" />
+<topic name="Insert CD Error" url="Install/Media_Issues/INST_Insert_CD_Error.htm" />
+<topic name="Media Issues" url="Install/Media_Issues/INST_Media_Issues.htm" />
+<topic name="Selecting a Hard Drive" url="Install/Media_Issues/INST_Selecting_a_Hard_Drive.htm" />
+<topic name="Minimum Requirements?" url="Install/Requirements_Issues/INST_Minimum_Requirements_.htm" />
+<topic name="Out Of Disk Space" url="Install/Requirements_Issues/INST_Out_Of_Disk_Space.htm" />
+<topic name="Requirements Issues" url="Install/Requirements_Issues/Requirements_Issues.htm" />
+<topic name="Can't See LAN Game" url="Online/ONLN_Can_t_See_LAN_Game.htm" />
+<topic name="Connection Issues" url="Online/ONLN_Connection_Issues.htm" />
+<topic name="Online Troubles" url="Online/ONLN_Online_Troubles.htm" />
+<topic name="Poor Performance or Lag" url="Online/ONLN_Poor_Performance.htm" />
+<topic name="Frozen On Screen" url="Playing_the_Game/Lockups/PLYG_Frozen_On_Screen.htm" />
+<topic name="Lockups" url="Playing_the_Game/Lockups/PLYG_Lockups.htm" />
+<topic name="Not Responding To Input" url="Playing_the_Game/Lockups/PLYG_Not_Responding_To_Input.htm" />
+<topic name="Repeating Sound" url="Playing_the_Game/Lockups/PLYG_Repeating_Sound.htm" />
+<topic name="Audio Issues" url="Playing_the_Game/PLYG_Audio_Issues.htm" />
+<topic name="Controller Does Not Work" url="Playing_the_Game/PLYG_Controller_Does_Not_Work.htm" />
+<topic name="Crashing" url="Playing_the_Game/PLYG_Crashing.htm" />
+<topic name="Errors While Playing" url="Playing_the_Game/PLYG_Errors_While_Playing.htm" />
+<topic name="Issues While Playing" url="Playing_the_Game/PLYG_Issues_While_Playing.htm" />
+<topic name="Poor Performance" url="Playing_the_Game/PLYG_Poor_Performance.htm" />
+<topic name="Video Issues" url="Playing_the_Game/PLYG_Video_Issues.htm" />
+<topic name="Check Minimum Requirements" url="Standard_Items/Check_Minimum_Requirements.htm" />
+<topic name="Disk Cleanup and Defrag" url="Standard_Items/Disk_Cleanup_and_Defrag.htm" />
+<topic name="Change Screen Resolution" url="Standard_Items/STND_Change_Screen_Resolution.htm" />
+<topic name="Changing Drive Letters" url="Standard_Items/STND_Changing_Drive_Letters.htm" />
+<topic name="Close Background Tasks" url="Standard_Items/STND_Close_Background_Tasks.htm" />
+<topic name="Empty Temporary Internet Files" url="Standard_Items/STND_Empty_Temporary_Internet_Files.htm" />
+<topic name="Lower Sound Acceleration" url="Standard_Items/STND_Lower_Sound_Acceleration.htm" />
+<topic name="Update Drivers" url="Standard_Items/STND_Update_Drivers.htm" />
+<topic name="Virtual Memory" url="Standard_Items/STND_Virtual_Memory.htm" />
+<topic name="Copy Protection Crash" url="Starting_the_Game/Crashes/STRTG_CP_Crash.htm" />
+<topic name="Crash After Full Screen" url="Starting_the_Game/Crashes/STRTG_Crash_After_Full_Screen.htm" />
+<topic name="Crashing Back To Desktop" url="Starting_the_Game/Crashes/STRTG_Crashing_Back_To_Desktop.htm" />
+<topic name="Blank Screen Lockup" url="Starting_the_Game/Lockups/STRTG_Blank_Screen_Lockup.htm" />
+<topic name="Copy Protection Lockup" url="Starting_the_Game/Lockups/STRTG_CP_Lockup.htm" />
+<topic name="Lockups Starting the Game" url="Starting_the_Game/Lockups/STRTG_Lockups.htm" />
+<topic name="Repeating Sound" url="Starting_the_Game/Lockups/STRTG_Repeating_Sound.htm" />
+<topic name="Errors Starting The Game" url="Starting_the_Game/STRTG_Errors.htm" />
+<topic name="Starting the Game" url="Starting_the_Game/STRTG_Starting_the_Game.htm" />
+<topic name="Welcome" url="Welcome.htm" />
+
+</ftstdata>  

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subs-interface-reply SYSTEM "http://account.ea.com/subsxml/subs-interface.dtd">
+<subs-interface-reply version="2.0">
+   <status>0</status>
+   <message>Success</message>
+   <get-registration-dictionary-reply>
+      <message-dictionary>
+         <message id="00GAMENAME-1"><![CDATA[Need for Speed™ Most Wanted]]></message>
+         <message id="BUTTONSANDLABELS-1"><![CDATA[REKISTERÖINTI]]></message>
+         <message id="BUTTONSANDLABELS-10"><![CDATA[OK]]></message>
+         <message id="BUTTONSANDLABELS-11"><![CDATA[PERUUTA]]></message>
+         <message id="BUTTONSANDLABELS-12"><![CDATA[YRITÄ UUDELLEEN]]></message>
+         <message id="BUTTONSANDLABELS-13"><![CDATA[SULJE]]></message>
+         <message id="BUTTONSANDLABELS-14"><![CDATA[POISTU]]></message>
+         <message id="BUTTONSANDLABELS-15"><![CDATA[JATKA MYÖHEMMIN]]></message>
+         <message id="BUTTONSANDLABELS-2"><![CDATA[TEE SE MYÖHEMMIN]]></message>
+         <message id="BUTTONSANDLABELS-3"><![CDATA[REKISTERÖIDY NYT]]></message>
+         <message id="BUTTONSANDLABELS-4"><![CDATA[KYLLÄ]]></message>
+         <message id="BUTTONSANDLABELS-5"><![CDATA[EI]]></message>
+         <message id="BUTTONSANDLABELS-6"><![CDATA[EDELLINEN]]></message>
+         <message id="BUTTONSANDLABELS-7"><![CDATA[SEURAAVA]]></message>
+         <message id="BUTTONSANDLABELS-8"><![CDATA[TAKAISIN]]></message>
+         <message id="BUTTONSANDLABELS-9"><![CDATA[VALMIS]]></message>
+         <message id="CONNECT1A-1"><![CDATA[<B>Jotta voisit rekisteröidä pelisi, käytössäsi täytyy olla toimiva Internet-yhteys.</b>]]></message>
+         <message id="CONNECT1A-2"><![CDATA[Jos et ole vielä avannut Internet-yhteyttä, avaa se nyt. Kun olet avannut yhteyden, napsauta painiketta <b>Seuraava</b>.<BR><BR>]]></message>
+         <message id="CONNECT1A-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Mitä tehdä, jos käytössä ei ole Internet-yhteyttä.</u></a></font>]]></message>
+         <message id="CONNECT1B-1"><![CDATA[<b>Jos haluat varmistaa rekisteröintisi tai vilkaista tarjouksia, käytössäsi täytyy olla toimiva Internet-yhteys.</b>]]></message>
+         <message id="CONNECT1B-2"><![CDATA[Jos et ole vielä avannut Internet-yhteyttä, avaa se nyt. Kun olet avannut yhteyden, napsauta painiketta <b>Seuraava</b>.<BR><BR>]]></message>
+         <message id="CONNECT1B-3"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Mitä tehdä, jos käytössä ei ole Internet-yhteyttä.</u></a></font>]]></message>
+         <message id="CONNECT1C-1"><![CDATA[<b>Luodaan yhteyttä EA:han. </b>]]></message>
+         <message id="CONNECT1C-2"><![CDATA[<b>Odota hetki - tietoja ladataan.</b>]]></message>
+         <message id="CONNECTED1A-1"><![CDATA[<b>Yhteys on valmis</b>]]></message>
+         <message id="CONNECTED1A-2"><![CDATA[<b>Rekisteröinti aloitetaan…</b>]]></message>
+         <message id="CONNECTED1B-1"><![CDATA[<b>EA:han ei saada yhteyttä</b>]]></message>
+         <message id="CONNECTED1B-2"><![CDATA[EA:n tuotteiden rekisteröintijärjestelmään ei saada yhteyttä. Jotta voisit rekisteröidä tuotteesi, käytössäsi täytyy olla toimiva Internet-yhteys. Jos et ole vielä avannut Internet-yhteyttä, avaa se nyt.]]></message>
+         <message id="CONNECTED1B-3"><![CDATA[Kun yhteys on avattu, napsauta painiketta <b>Yritä uudelleen</B>.]]></message>
+         <message id="CONNECTED1B-4"><![CDATA[<font color="#333399"><a href="asfunction:gotoURL,r3b"><u>Mitä tehdä, jos yhteys ei avaudu useallakaan yrityksellä.</u></a></font>]]></message>
+         <message id="CONNECTHOWTO-1"><![CDATA[<b>Jotta voisit rekisteröidä tuotteesi, käytössäsi täytyy olla Internet-yhteys.</b>Voit pelata peliä, vaikka sitä ei olisikaan rekisteröity. Jos haluat rekisteröidä tuotteesi, mutta et yrityksistä huolimatta saa yhteyttä EA:n tuotteiden rekisteröintijärjestelmään, toimi seuraavasti:]]></message>
+         <message id="CONNECTHOWTO-2"><![CDATA[Tarkista, että Internet-yhteytesi toimii.]]></message>
+         <message id="CONNECTHOWTO-3"><![CDATA[Ota yhteyttä EA:n tekniseen tukeen. Teknisen tuen yhteystiedot löydät pelisi ohjekirjasta.]]></message>
+         <message id="CONNECTHOWTO-4"><![CDATA[Mene Internet-osoitteeseen <font color="#333399"><a href="http://www.eagamereg.com"><u>www.eagamereg.com</u></a> ja täytä sivuilta löytyvä rekisteröintilomake.</font>]]></message>
+         <message id="CONNECTING-1"><![CDATA[<b>Luodaan yhteyttä EA:han.</b>]]></message>
+         <message id="CONNECTING-2"><![CDATA[Luodaan yhteyttä EA:n tuotteiden rekisteröintijärjestelmään. Odota hetki.]]></message>
+         <message id="NOINTERNET-1"><![CDATA[<B>Ei haittaa vaikka käytössäsi ei olisikaan Internet-yhteyttä.</B>]]></message>
+         <message id="NOINTERNET-2"><![CDATA[Voit pelata peliä {client:game-name} vaikket rekisteröisikään sitä. Jos tarvitset teknisen tuen apua, voit rekisteröidä pelisi myös puhelimitse. Teknisen tuen puhelinnumeron löydät pelin ohjekirjasta.<BR>]]></message>
+         <message id="NOINTERNET-3"><![CDATA[Pidä hauskaa pelin parissa!]]></message>
+         <message id="NOINTERNET-4"><![CDATA[Electronic Arts]]></message>
+         <message id="OFFLINEEXITCONFIRM-1"><![CDATA[<b>Haluatko varmasti lopettaa?</b>]]></message>
+         <message id="REGISTERLATER-1"><![CDATA[<b>Jos et rekisteröi tuotettasi, menetät muun muassa seuraavat edut:</b><BR>]]></message>
+         <message id="REGISTERLATER-2"><![CDATA[&nbsp;]]></message>
+         <message id="REGISTERLATER-3"><![CDATA[<li>Tekninen tuki</li>]]></message>
+         <message id="REGISTERLATER-4"><![CDATA[<li>Lisätietoa suosikkipeleistäsi</li>]]></message>
+         <message id="REGISTERLATER-5"><![CDATA[<li>Ilmaisia huijauskoodeja ja pelivinkkejä!</li>]]></message>
+         <message id="REGISTERLATER-6"><![CDATA[<BR><b>Rekisteröi pelisi pian, sillä se kannattaa. Pidä hauskaa pelin parissa!</b>]]></message>
+         <message id="SIGNIN1B-1"><![CDATA[<b>Tätä versiota {client:game-name}:sta ei voi rekisteröidä.</b> Voit pelata peliä ilman rekisteröintiäkin.  Voit käydä osoitteessa <font color="#333399"><a href="http://www.ea.com"><u>www.ea.com</u></a></font> hakemassa uusinta tietoa EA:n tuotteista ja tilaamassa EA:n uutislehden.<BR>]]></message>
+         <message id="START1A-1"><![CDATA[<b>Lataa huijauskoodi tai pelivinkki peliäsi varten ja paljon muuta!</b> <BR><BR>]]></message>
+         <message id="START1A-2"><![CDATA[<b>Rekisteröi {client:game-name} nyt, niin saat nämä mahtavat edut:</b><BR>]]></message>
+         <message id="START1A-3"><![CDATA[<li>Ilmaisia huijauskoodeja ja pelivinkkejä!</li>]]></message>
+         <message id="START1A-4"><![CDATA[<li>Lisätietoa suosikkipeleistäsi</li>]]></message>
+         <message id="START1A-5"><![CDATA[<li>Tekninen tuki</li>]]></message>
+         <message id="START1A-6"><![CDATA[&nbsp;]]></message>
+         <message id="START1B-1"><![CDATA[<b>Olet jo rekisteröinyt pelin: {client:game-name}.</b>]]></message>
+         <message id="START1B-2"><![CDATA[Tarkasta rekisteritietosi. Vastaamalla lisäkysymyksiin voit saada erikoistarjouksia EA:n peleistä.]]></message>
+         <message id="TITLE-PREFIX"><![CDATA[default]]></message>
+         <message id="TITLE-SUFFIX"><![CDATA[default]]></message>
+      </message-dictionary>
+   </get-registration-dictionary-reply>
+</subs-interface-reply>
